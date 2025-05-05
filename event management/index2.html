@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event Details</title>
+    <style>
+        /* Reset some basic styles */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background: #f7f9fc;
+            color: #333;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 20px auto;
+            padding: 30px;
+            background: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+        }
+
+        .item {
+            margin-bottom: 30px;
+        }
+
+        .item img {
+            width: 100%;
+            height: 50vh;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .item h1,
+        .item h3 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+
+        .item p,
+        .item span {
+            font-size: 16px;
+            color: #555;
+            margin-bottom: 8px;
+        }
+
+        .organizer {
+            display: flex;
+            align-items: center;
+            background: #eef3f9;
+            padding: 15px;
+            border-radius: 8px;
+            margin: 20px 0;
+            transition: transform 0.3s ease;
+        }
+
+        .organizer:hover {
+            transform: translateY(-3px);
+        }
+
+        .organizer .icon {
+            background: #27ae60;
+            color: #fff;
+            font-size: 20px;
+            font-weight: bold;
+            height: 60px;
+            width: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+        }
+
+        .organizerdata p {
+            margin-bottom: 5px;
+        }
+
+        .follow {
+            display: inline-block;
+            padding: 8px 12px;
+            background: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .follow:hover {
+            background: #0056b3;
+        }
+
+        .location {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: #f0f4f8;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+
+        .location div {
+            flex: 1;
+            margin: 0 15px;
+        }
+
+        .location h3 {
+            color: #2c3e50;
+            margin-bottom: 8px;
+        }
+
+        .location .location-icon img {
+            width: 30px;
+            height: 30px;
+        }
+
+        .reservreserve-btne {
+            display: inline-block;
+            padding: 10px 20px;
+            background: #28a745;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .reserve-btn:hover {
+            background: #218838;
+        }
+
+        button {
+            padding: 10px 20px;
+            margin: 10px 5px;
+            border: none;
+            background: #007bff;
+            color: #fff;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        button:hover {
+            background: #0056b3;
+        }
+
+        .locationcontainer {
+            margin: 20px auto;
+            padding: 15px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            text-align: center;
+        }
+
+        .book {
+            display: flex;
+            justify-content: space-between;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container" id="container"></div>
+    <div style="text-align:center; margin-top:20px;">
+        <button onclick="goBack()">Go Back</button>
+        <button onclick="getLocation()">Location</button>
+    </div>
+    <div class="locationcontainer"></div>
+
+    <script>
+        // Retrieve the event id from the URL and data from localStorage
+        let urlSearchParams = new URLSearchParams(location.search);
+        let id = urlSearchParams.get("id");
+        let response = JSON.parse(localStorage.getItem("products")) || [];
+        let filterData = response.filter(obj => obj.id == id);
+
+        function displayData(events) {
+            const container = document.getElementById("container");
+            container.innerHTML = "";
+            events.forEach(obj => {
+                let {
+                    id,
+                    logo: { url },
+                    category,
+                    tickets,
+                    start: { timezone, time, week, month, utc, local },
+                    online,
+                    title,
+                    organizerName,
+                    followers,
+                    follow,
+                    description: { text },
+                    location: { city, area },
+                    about: { hours, age, parking }
+                } = obj;
+
+                let item = document.createElement("div");
+                item.className = "item";
+
+                item.innerHTML = `
+          <center><h1 style="color:red">${category}</h1></center>
+          <img src="${url}" alt="Event Image">
+          <br>
+          <br>
+          <div class="book">
+            <b>Sales end soon! Hurry up!</b>
+
+            </div>
+          <h3>${text}</h3>
+            <div class="organizerdata">
+              <p><b>Organizer:</b> ${organizerName}</p>
+              <p><b>Followers:</b> ${followers}</p>
+          </div>
+          <h3>Date and Time</h3>
+          <p><span class="icon">📅</span> <b>${week}, ${month} ${utc}</b>
+      <p><h3>Location</h3></p>
+              <p><b>City:</b> ${city}</p>
+              <p><b>Area:</b> ${area}</p>
+          <h3>About this Event</h3>
+          <p><span class="icon">🕒</span> <b>Hours:</b> ${hours}</p>
+          <p><span class="icon">🔞</span> <b>Age:</b> ${age}</p>
+          <p><span class="icon">🚗</span> <b>Parking:</b> ${parking}</p>
+          <p><b>Venue Information:</b> Our members can contact customer service to get venue information. 
+          Exact venue details will be given to non-members only 24 hours before the scheduled event.</p>
+          <p><b>Cancellation Policy:</b> For inquiries, call our office at 8420570322 (9 AM – 4 PM) Monday to Saturday or WhatsApp at 6289749277.</p>
+        `;
+
+                const button = document.createElement("button");
+                button.textContent = "Reservenow";
+                button.className = "reserve-btn";
+                button.onclick = () => {
+                    window.location.href = './reserve.html';
+
+                };
+                item.appendChild(button);
+                container.appendChild(item);
+            });
+        }
+
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(success, error);
+            } else {
+                document.querySelector('.locationcontainer').innerHTML = `Geolocation is not supported by this browser.`;
+            }
+        }
+
+        function success(position) {
+            document.querySelector('.locationcontainer').innerHTML = `
+        <b>Latitude:</b> ${position.coords.latitude}<br>
+        <b>Longitude:</b> ${position.coords.longitude}
+      `;
+        }
+
+        function error() {
+            alert("Sorry, location is not available.");
+        }
+
+        function goBack() {
+            window.location.href = './index.html';
+        }
+        // Display the filtered event data
+        displayData(filterData);
+
+
+
+    </script>
+</body>
+
+</html>

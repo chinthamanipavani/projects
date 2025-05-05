@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventbrite</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            line-height: 1.6;
+            background: #fff;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .header, .footer {
+            background: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 1100px;
+            margin: auto;
+            padding: 20px;
+        }
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+        }
+        .nav a {
+            color: #333;
+            text-decoration: none;
+            padding: 10px 15px;
+        }
+        .nav a:hover {
+            background: #f4f4f4;
+        }
+        .btn {
+            display: inline-block;
+            background: #ff6600;
+            color: #fff;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background: #e65c00;
+        }
+        .section {
+            margin: 40px 0;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+        }
+        .card {
+            background: #f9f9f9;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            transition: 0.3s;
+        }
+        .card:hover {
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+        }
+        ul {
+            list-style: none;
+        }
+        li::before {
+            content: "\2713";
+            margin-right: 10px;
+            color: green;
+        }
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+<header class="header">
+    <div class="container">
+        <div class="nav">
+            <h1>Event</h1>
+            <div>
+                <a href="#">Find my tickets</a>
+                <a href="#">Log In</a>
+                <a href="#">Sign Up</a>
+                <a href="#">Contact Sales</a>
+                <a href="#" class="btn">Get Started</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<div class="container">
+    <section class="section">
+        <h1>Where Event Organizers Grow</h1>
+        <p>The all-in-one ticketing and discovery platform trusted by millions of organizers and attendees worldwide.</p>
+        <a href="#" class="btn">Get started for free</a>
+    </section>
+
+    <section class="section">
+        <h2>Event Hosting Made Easy</h2>
+        <img src="https://via.placeholder.com/1100x400" alt="Event Hosting Image">
+        <p>Easily create events for free on a platform that attendees love and trust.</p>
+    </section>
+
+    <div class="grid">
+        <div class="card">
+            <img src="https://via.placeholder.com/350x200" alt="Event Ticketing">
+            <h3>Event Ticketing</h3>
+            <p>Sell more tickets with customizable event pages and a seamless checkout experience for attendees on a trusted platform.</p>
+        </div>
+        <div class="card">
+            <img src="https://via.placeholder.com/350x200" alt="Reporting & Analytics">
+            <h3>Reporting & Analytics</h3>
+            <p>Learn more about your buyers and discover where sales are coming from with real-time analytics.</p>
+        </div>
+        <div class="card">
+            <img src="https://via.placeholder.com/350x200" alt="Organizer App">
+            <h3>Organizer App</h3>
+            <p>Check guests in, sell tickets at the door, and track data with our easy-to-use Eventbrite Organizer App.</p>
+        </div>
+    </div>
+
+    <section class="section">
+        <h2>Budget Template</h2>
+        <img src="https://via.placeholder.com/1100x400" alt="Budget Template">
+        <p>The Event Budget Template You Need To Keep on Track. Our budget template is designed to make your finances as simple as possible. With our template, you can:</p>
+        <ul>
+            <li>Visualize your event expenses with automatically generated charts</li>
+            <li>Compare your projected and actual costs at a glance</li>
+            <li>Identify your biggest expenses with clear cost breakdowns</li>
+        </ul>
+        <a href="#" class="btn">Download the template</a>
+    </section>
+
+    <section class="section">
+        <h2>Reach the Right People</h2>
+        <img src="https://via.placeholder.com/1100x400" alt="Reach Audience">
+        <p>Grow your community on a marketplace where millions of people look for things to do.</p>
+    </section>
+
+    <section class="section">
+        <h2>Get Paid, Earn More</h2>
+        <img src="https://via.placeholder.com/1100x400" alt="Get Paid">
+        <p>Do what you love and earn more money with low-cost fees and quicker payouts.</p>
+    </section>
+</div>
+
+<footer class="footer">
+    <p>&copy; 2025 Eventbrite. All rights reserved.</p>
+</footer>
+
+</body>
+</html>

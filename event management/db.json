@@ -1,0 +1,3358 @@
+{
+
+    "events":[
+        {
+            "id": "1",
+            "title":"The Big Saturday Splash Pool Party, Belly Dance, Ramp Show, Games, Buffet Dinner, Drinks @ Hyderabad",
+             "organizerName":"By Sonali Events",
+             "followers": "60 followers",
+            "follow":"Follow",
+            "category": "BIRTHDAY",
+            "tickets": "$100",
+            "online": "offline" ,
+            "logo": {
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F910445773%2F2529137297821%2F1%2Foriginal.20241203-055120?crop=focalpoint&fit=crop&w=940&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.474&fp-y=0.50496031746&s=39220088c49352fa07ea0b031def5ef2"
+            },
+            "description": {
+                "text": "Pool Party, Belly Dance, Ramp Show, Food & Drinks"
+        
+            },
+            "location": {
+                "city":"Hyderabad",
+                "area":"Chevella Rd, near Mrugavani National Park, Hyderabad, Telangana 500075 Hyderabad, TS 500075"
+        
+            },
+            "start": {
+                "timezone": "India",
+                "time": "today",
+                "week": "monday",
+                "month":"April 2",
+                "local": "2025-02-10T14:00:00",
+                "utc": "6:30-11:30pm"
+            },
+            "about":{
+                "hours":" event is 5 hours",
+                "age":"All  ages",
+                "parking":"freevenue parking"
+            }        
+            
+        },
+
+        {
+            "id": "2",
+            "title": "Sunset Yoga & Meditation Retreat @ Bangalore",
+            "organizerName": "By Wellness Haven",
+            "followers": "120 followers",
+            "follow": "Follow",
+            "category": "WELLNESS",
+            "tickets": "$75",
+            "online": "offline",
+            "logo": {
+                "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F960625233%2F2567852027091%2F1%2Foriginal.20250214-060057?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.533073929961&fp-y=0.0126459143969&s=bf552d80c0c376b86c75dce09e1c7f3b"
+            },
+            "description": {
+                "text": "Relax and rejuvenate with guided yoga and meditation sessions at a scenic outdoor retreat."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "Nandi Hills, Bangalore, Karnataka 562103"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "tomorrow",
+                "week": "sunday",
+                "month": "April 6",
+                "local": "2025-04-06T07:00:00",
+                "utc": "1:30-4:30pm"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "18+ only",
+                "parking": "onsite parking available"
+            }
+        },
+        {
+            "id": "3",
+            "title": "Tech Summit 2025: Future of AI & Blockchain @ Mumbai",
+            "organizerName": "By InnovateX",
+            "followers": "450 followers",
+            "follow": "Follow",
+            "category": "TECHNOLOGY",
+            "tickets": "$150",
+            "online": "offline",
+            "logo": {
+                "url": "https://static.businessworld.in/1695721592_Vygr85_L_to_R_Jagadish_Patankar_Asho.jpg"
+            },
+            "description": {
+                "text": "Explore the latest trends in AI and Blockchain with industry experts and networking opportunities."
+            },
+            "location": {
+                "city": "Mumbai",
+                "area": "Bandra Kurla Complex, Mumbai, Maharashtra 400051"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next week",
+                "week": "friday",
+                "month": "April 12",
+                "local": "2025-04-12T10:00:00",
+                "utc": "4:30-6:30pm"
+            },
+            "about": {
+                "hours": "event is 6 hours",
+                "age": "21+ only",
+                "parking": "valet parking available"
+            }
+        },
+        {
+            "id": "4",
+            "title": "Foodie Fiesta: Street Food & Music Festival @ Delhi",
+            "organizerName": "By Food Lovers Club",
+            "followers": "320 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINK",
+            "tickets": "$50",
+            "online": "offline",
+            "logo": {
+                "url": "https://content.jdmagicbox.com/comp/def_content/stage-show-organisers/pcixv6tce2-stage-show-organisers-8-ugfal.jpg"
+            },
+            "description": {
+                "text": "Experience the best street food from across India with live music performances."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "India Gate Lawns, New Delhi, Delhi 110001"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next weekend",
+                "week": "saturday",
+                "month": "April 13",
+                "local": "2025-04-13T16:00:00",
+                "utc": "10:30am-3:30pm"
+            },
+            "about": {
+                "hours": "event is 5 hours",
+                "age": "All ages",
+                "parking": "street parking only"
+            }
+        },
+        {
+            "id": "5",
+            "title": "Bollywood Night: DJ, Dance & Dhol @ Pune",
+            "organizerName": "By PartyVibe Events",
+            "followers": "280 followers",
+            "follow": "Follow",
+            "category": "MUSIC",
+            "tickets": "$120",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyx9rdxq3HhMzfvrtn-CuaPbz3Cldo770pNQ&s"
+            },
+            "description": {
+                "text": "Get ready for a night of Bollywood beats, live DJ, and energetic Dhol performances."
+            },
+            "location": {
+                "city": "Pune",
+                "area": "Koregaon Park, Pune, Maharashtra 411001"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next friday",
+                "week": "friday",
+                "month": "April 19",
+                "local": "2025-04-19T20:00:00",
+                "utc": "2:30-5:30pm"
+            },
+            "about": {
+                "hours": "event is 4 hours",
+                "age": "21+ only",
+                "parking": "free parking available"
+            }
+        },
+        {
+            "id": "6",
+            "title": "Startup Expo 2025: Innovate & Inspire @ Chennai",
+            "organizerName": "By Startup Connect",
+            "followers": "600 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$200",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwp9rg1MPL1ga95ccfLtLOIOS6-XVx7Wz3w&s"
+            },
+            "description": {
+                "text": "Meet startup founders, investors, and industry leaders at this exclusive expo."
+            },
+            "location": {
+                "city": "Chennai",
+                "area": "Chennai Trade Centre, Chennai, Tamil Nadu 600089"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next month",
+                "week": "wednesday",
+                "month": "May 15",
+                "local": "2025-05-15T10:00:00",
+                "utc": "4:30-10:30am"
+            },
+            "about": {
+                "hours": "event is 6 hours",
+                "age": "18+ only",
+                "parking": "paid parking available"
+            }
+        },
+        {
+            "id": "7",
+            "title": "Delhi Ultra Marathon 2025",
+            "organizerName": "By Delhi Runners",
+            "followers": "900 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$25",
+            "online": "offline",
+            "logo": {
+              "url": "https://etvbharatimages.akamaized.net/etvbharat/prod-images/01-01-2024/1200-675-20398928-35-20398928-1704032115215.jpg"
+            },
+            "description": {
+              "text": "Push your limits in the ultimate marathon challenge across Delhi."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "India Gate, New Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 5",
+              "week": "wednesday",
+              "month": "August",
+              "local": "2025-08-05T06:00:00",
+              "utc": "12:30-3:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+        {
+            "id": "8",
+            "title": "Beach Holiday Bash: Music, Dance & BBQ @ Goa",
+            "organizerName": "By Creative Hands",
+            "followers": "220 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$45",
+            "online": "offline",
+            "logo": {
+                "url": "https://ihplb.b-cdn.net/wp-content/uploads/2019/01/goa-beach-family.jpg"
+            },
+            "description": {
+                "text": "Enjoy a beach holiday with live music, dance performances, and a BBQ buffet."
+            },
+            "location": {
+                "city": "Jaipur",
+                "area": "Civil Lines, Jaipur, Rajasthan 302006"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next saturday",
+                "week": "saturday",
+                "month": "April 27",
+                "local": "2025-04-27T14:00:00",
+                "utc": "8:30-12:30pm"
+            },
+            "about": {
+                "hours": "event is 4 hours",
+                "age": "15+ only",
+                "parking": "street parking available"
+            }
+        }
+        
+        
+    ],
+    "more":[
+       
+        {
+            "id": "10",
+            "title": "Beach Holiday Bash: Music, Dance & BBQ @ Goa",
+            "organizerName": "By Sun & Fun Travels",
+            "followers": "420 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$150",
+            "online": "offline",
+            "logo": {
+                "url": "https://th-i.thgim.com/public/incoming/g6pgi6/article68778249.ece/alternates/FREE_1200/YSP_9951%201.jpg"
+            },
+            "description": {
+                "text": "Enjoy a beach holiday with live music, dance performances, and a BBQ buffet."
+            },
+            "location": {
+                "city": "Goa",
+                "area": "Calangute Beach, Goa 403516"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next weekend",
+                "week": "saturday",
+                "month": "April 20",
+                "local": "2025-04-20T15:00:00",
+                "utc": "9:30-12:30pm"
+            },
+            "about": {
+                "hours": "event is 6 hours",
+                "age": "18+ only",
+                "parking": "beachside parking available"
+            }
+        },
+        {
+            "id": "11",
+            "title": "Live Music Concert: Rock & Jazz Night @ Delhi",
+            "organizerName": "By MusicMania",
+            "followers": "780 followers",
+            "follow": "Follow",
+            "category": "MUSIC",
+            "tickets": "$110",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGj1ySgVA2U8hJ6cVKJLdqIFIxfmnT6SmJug&s"
+            },
+            "description": {
+                "text": "Experience a night of electrifying rock and soothing jazz performances."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "Jawaharlal Nehru Stadium, New Delhi, Delhi 110003"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next saturday",
+                "week": "saturday",
+                "month": "April 27",
+                "local": "2025-04-27T19:00:00",
+                "utc": "1:30-5:30pm"
+            },
+            "about": {
+                "hours": "event is 4 hours",
+                "age": "21+ only",
+                "parking": "paid parking available"
+            }
+        },
+        {
+            "id": "12",
+            "title": "Photography & Nature Walk @ Bangalore",
+            "organizerName": "By Lens & Trails",
+            "followers": "150 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$35",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtjeI0IyRcJhCmVQxDdl0gCTVJeGf9G32fw&s"
+            },
+            "description": {
+                "text": "Capture the beauty of nature while learning photography tips on this scenic walk."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "Lalbagh Botanical Garden, Bangalore, Karnataka 560004"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next sunday",
+                "week": "sunday",
+                "month": "April 28",
+                "local": "2025-04-28T08:00:00",
+                "utc": "2:30-5:30am"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "16+ only",
+                "parking": "street parking available"
+            }
+        },
+        {
+            "id": "13",
+            "title": "Cooking Class: Italian Cuisine @ Hyderabad",
+            "organizerName": "By Food & Fun Academy",
+            "followers": "230 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$60",
+            "online": "offline",
+            "logo": {
+                "url": "https://imageio.forbes.com/specials-images/imageserve/6787e1865941e8fc79dbc8b5/Creative-professions-people--Artisans-at-work--musician--graffiti-artist--sculptor-/0x0.jpg?format=jpg&crop=589,331,x4,y0,safe&width=960"
+            },
+            "description": {
+                "text": "Learn to cook authentic Italian dishes with a professional chef."
+            },
+            "location": {
+                "city": "Hyderabad",
+                "area": "Jubilee Hills, Hyderabad, Telangana 500033"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next friday",
+                "week": "friday",
+                "month": "May 3",
+                "local": "2025-05-03T15:00:00",
+                "utc": "9:30-12:30pm"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "18+ only",
+                "parking": "onsite parking available"
+            }
+        },
+        
+        {
+            "id": "15",
+            "title": "Wine & Paint Night @ Bangalore",
+            "organizerName": "By Art & Sip",
+            "followers": "410 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$75",
+            "online": "offline",
+            "logo": {
+                "url": "https://www.lawlat.in/files/medialibrary/95d5f1a7603bf1363926f791f70eb1fe.png"
+            },
+            "description": {
+                "text": "Unleash your inner artist while sipping fine wine."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "Indiranagar, Bangalore, Karnataka 560038"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next friday",
+                "week": "friday",
+                "month": "April 26",
+                "local": "2025-04-26T19:00:00",
+                "utc": "1:30-4:30pm"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "18+ only",
+                "parking": "street parking available"
+            }
+        },
+        {
+            "id": "16",
+            "title": "DJ Night: EDM & House Party @ Delhi",
+            "organizerName": "By GrooveNation",
+            "followers": "530 followers",
+            "follow": "Follow",
+            "category": "MUSIC",
+            "tickets": "$95",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGj1ySgVA2U8hJ6cVKJLdqIFIxfmnT6SmJug&s"
+            },
+            "description": {
+                "text": "Dance to the beats of top DJs at this high-energy EDM night."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "Connaught Place, New Delhi, Delhi 110001"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next saturday",
+                "week": "saturday",
+                "month": "April 27",
+                "local": "2025-04-27T21:00:00",
+                "utc": "3:30-6:30pm"
+            },
+            "about": {
+                "hours": "event is 5 hours",
+                "age": "21+ only",
+                "parking": "paid parking available"
+            }
+        },
+        {
+            "id": "18",
+            "title": "Camping & Bonfire Night @ Lonavala",
+            "organizerName": "By Adventure Tribe",
+            "followers": "480 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$135",
+            "online": "offline",
+            "logo": {
+                "url": "https://gwg.imgix.net/72321.jpg?fit=crop&crop=focal&w=1400&h=600"
+            },
+            "description": {
+                "text": "Escape into the wild with a camping adventure and bonfire."
+            },
+            "location": {
+                "city": "Lonavala",
+                "area": "Tiger Point, Lonavala, Maharashtra 410401"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next weekend",
+                "week": "saturday",
+                "month": "May 4",
+                "local": "2025-05-04T17:00:00",
+                "utc": "11:30-2:30pm"
+            },
+            "about": {
+                "hours": "overnight event",
+                "age": "18+ only",
+                "parking": "onsite parking available"
+            }
+        },
+        {
+            "id": "19",
+            "title": "Painting & Wine Tasting @ Pune",
+            "organizerName": "By ArtVino",
+            "followers": "300 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$85",
+            "online": "offline",
+            "logo": {
+                "url": "https://www.happierhuman.com/wp-content/uploads/2022/10/hobbies-kids-engaging.jpg"
+            },
+            "description": {
+                "text": "Enjoy a relaxing evening of wine tasting and painting with expert guidance."
+            },
+            "location": {
+                "city": "Pune",
+                "area": "Baner, Pune, Maharashtra 411045"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next friday",
+                "week": "friday",
+                "month": "May 10",
+                "local": "2025-05-10T19:00:00",
+                "utc": "1:30-4:30pm"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "21+ only",
+                "parking": "free parking available"
+            }
+        },
+        {
+            "id": "20",
+            "title": "Salsa Dance Workshop @ Hyderabad",
+            "organizerName": "By Dance Fever",
+            "followers": "350 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$50",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKVV7G2WTUdalgvtX_O1aRPqWrgZjGtDnOHg&s"
+            },
+            "description": {
+                "text": "Learn the basics of salsa with professional dance instructors."
+            },
+            "location": {
+                "city": "Hyderabad",
+                "area": "Banjara Hills, Hyderabad, Telangana 500034"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next saturday",
+                "week": "saturday",
+                "month": "May 11",
+                "local": "2025-05-11T15:00:00",
+                "utc": "9:30-12:30pm"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "18+ only",
+                "parking": "onsite parking available"
+            }
+        },
+        
+        {
+            "id": "22",
+            "title": "Beach Yoga & Meditation Retreat @ Goa",
+            "organizerName": "By Zen Wellness",
+            "followers": "680 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$220",
+            "online": "offline",
+            "logo": {
+                "url": "https://media.licdn.com/dms/image/v2/C4D12AQHuKA55q17M1A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1630595392955?e=2147483647&v=beta&t=t18XGuSCLb0WMLuxyftmH6dmzd25TfRzbIZmxMqPlok"
+            },
+            "description": {
+                "text": "Relax and rejuvenate with yoga, meditation, and nature therapy."
+            },
+            "location": {
+                "city": "Goa",
+                "area": "Morjim Beach, Goa 403512"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "March 5",
+                "week": "wednesday",
+                "month": "March 5",
+                "local": "2025-03-05T06:00:00",
+                "utc": "12:30-3:30am"
+            },
+            "about": {
+                "hours": "3-day retreat",
+                "age": "18+ only",
+                "parking": "beachside parking available"
+            }
+        },
+        {
+            "id": "23",
+            "title": "Wine & Cheese Pairing Workshop @ Bangalore",
+            "organizerName": "By Vino & More",
+            "followers": "340 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$90",
+            "online": "offline",
+            "logo": {
+                "url": "https://res.cloudinary.com/hz3gmuqw6/image/upload/c_fill,f_auto,q_60,w_750/v1/goldenapron/6261d0c54293f"
+            },
+            "description": {
+                "text": "Learn the art of wine and cheese pairing with sommeliers."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "UB City, Bangalore, Karnataka 560001"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "March 12",
+                "week": "saturday",
+                "month": "March 12",
+                "local": "2025-03-12T18:00:00",
+                "utc": "12:30-3:30pm"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "21+ only",
+                "parking": "paid parking available"
+            }
+        },
+        {
+            "id": "24",
+            "title": "Bollywood Night: Live Music & DJ @ Delhi",
+            "organizerName": "By Party Freaks",
+            "followers": "750 followers",
+            "follow": "Follow",
+            "category": "MUSIC",
+            "tickets": "$150",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxIQasTHDU5aISGsR1T4zjaIk5yshg-zSAMHDN2W3NZtMoGHWSvw4bjyFnjW46TO1UiPc&usqp=CAU"
+            },
+            "description": {
+                "text": "Dance the night away to Bollywood hits with top DJs and live performances."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "Aerocity, Delhi 110037"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "March 18",
+                "week": "friday",
+                "month": "March 18",
+                "local": "2025-03-18T21:00:00",
+                "utc": "3:30-6:30pm"
+            },
+            "about": {
+                "hours": "event is 5 hours",
+                "age": "21+ only",
+                "parking": "valet parking available"
+            }
+        },
+        {
+            "id": "25",
+            "title": "Treasure Hunt Adventure @ Pune",
+            "organizerName": "By Adventure Zone",
+            "followers": "420 followers",
+            "follow": "Follow",
+            "category": "ADVENTURE",
+            "tickets": "$55",
+            "online": "offline",
+            "logo": {
+                "url": "https://gwg.imgix.net/72321.jpg?fit=crop&crop=focal&w=1400&h=600"
+            },
+            "description": {
+                "text": "Solve clues and find hidden treasures in this fun adventure challenge."
+            },
+            "location": {
+                "city": "Pune",
+                "area": "Koregaon Park, Pune, Maharashtra 411001"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "March 25",
+                "week": "sunday",
+                "month": "March 25",
+                "local": "2025-03-25T10:00:00",
+                "utc": "4:30-7:30am"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "16+ only",
+                "parking": "free parking available"
+            }
+        },
+        {
+            "id": "26",
+            "title": "Stand-up Comedy Show @ Hyderabad",
+            "organizerName": "By LOL Nights",
+            "followers": "500 followers",
+            "follow": "Follow",
+            "category": "ENTERTAINMENT",
+            "tickets": "$60",
+            "online": "offline",
+            "logo": {
+                "url": "https://5.imimg.com/data5/SELLER/Default/2020/10/OX/FX/UB/98833934/entertainment-programs.jpg"
+            },
+            "description": {
+                "text": "Laugh your heart out with top comedians performing live."
+            },
+            "location": {
+                "city": "Hyderabad",
+                "area": "Jubilee Hills, Hyderabad, Telangana 500033"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "April 5",
+                "week": "friday",
+                "month": "April 5",
+                "local": "2025-04-05T20:00:00",
+                "utc": "2:30-5:30pm"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "18+ only",
+                "parking": "onsite parking available"
+            }
+        },
+        {
+            "id": "27",
+            "title": "Fitness Bootcamp @ Chennai",
+            "organizerName": "By FitZone",
+            "followers": "280 followers",
+            "follow": "Follow",
+            "category": "FITNESS",
+            "tickets": "$30",
+            "online": "offline",
+            "logo": {
+                "url": "https://wmhdofficial.com/wp-content/uploads/event_the-strengthen-up-zurich.jpg"
+            },
+            "description": {
+                "text": "Get fit with an intensive bootcamp including HIIT, cardio, and strength training."
+            },
+            "location": {
+                "city": "Chennai",
+                "area": "Besant Nagar Beach, Chennai, Tamil Nadu 600090"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "April 12",
+                "week": "sunday",
+                "month": "April 12",
+                "local": "2025-04-12T07:00:00",
+                "utc": "1:30-4:30am"
+            },
+            "about": {
+                "hours": "event is 3 hours",
+                "age": "16+ only",
+                "parking": "free parking available"
+            }
+        }, {
+            "id": "28",
+            "title": "City Soccer Tournament 2025 @ Mumbai",
+            "organizerName": "By Mumbai Sports Club",
+            "followers": "500 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$20",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKQ8yJz6Z89vK6g-Xf3jjCQV-AuyJwtTBC_w&s"
+            },
+            "description": {
+                "text": "Join the annual soccer tournament featuring local teams competing for the championship title."
+            },
+            "location": {
+                "city": "Mumbai",
+                "area": "Wankhede Stadium, Mumbai, Maharashtra"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next saturday",
+                "week": "saturday",
+                "month": "April 18",
+                "local": "2025-04-18T10:00:00",
+                "utc": "4:30-7:30am"
+            },
+            "about": {
+                "hours": "event lasts 4 hours",
+                "age": "All ages",
+                "parking": "parking available"
+            }
+        },
+        {
+            "id": "29",
+            "title": "Rockin' Birthday Bash @ Delhi",
+            "organizerName": "By Party Beats",
+            "followers": "620 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$100",
+            "online": "offline",
+            "logo": {
+                "url": "https://pre.trickytravellers.com/uploads/files/1598022514Audience_at_NH7_Weekender.jpg"
+            },
+            "description": {
+                "text": "Celebrate your birthday with live rock music, DJ sets, and an unforgettable party atmosphere."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "Connaught Place, New Delhi, Delhi"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next friday",
+                "week": "friday",
+                "month": "April 25",
+                "local": "2025-04-25T20:00:00",
+                "utc": "2:30-5:30pm"
+            },
+            "about": {
+                "hours": "event lasts 5 hours",
+                "age": "21+ only",
+                "parking": "valet parking available"
+            }
+        },
+        {
+            "id": "30",
+            "title": "Gourmet Food & Drinks Festival @ Bangalore",
+            "organizerName": "By Flavor Fiesta",
+            "followers": "700 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$50",
+            "online": "offline",
+            "logo": {
+                "url": "https://media.gettyimages.com/id/1457889029/photo/group-of-food-with-high-content-of-dietary-fiber-arranged-side-by-side.jpg?s=612x612&w=gi&k=20&c=YiNatAP0CzFSalhnkzSUFyy6XpVhBe3WSnRpu1W3pV4="
+            },
+            "description": {
+                "text": "Taste a variety of cuisines and cocktails at the annual gourmet food and drinks festival."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "MG Road, Bangalore, Karnataka"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next sunday",
+                "week": "sunday",
+                "month": "May 4",
+                "local": "2025-05-04T12:00:00",
+                "utc": "6:30-9:30am"
+            },
+            "about": {
+                "hours": "event lasts 6 hours",
+                "age": "All ages",
+                "parking": "ample parking available"
+            }
+        },
+        {
+            "id": "31",
+            "title": "DIY Crafts & Hobbies Workshop @ Chennai",
+            "organizerName": "By Crafty Corner",
+            "followers": "330 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$40",
+            "online": "offline",
+            "logo": {
+                "url": "https://media.istockphoto.com/id/1345542613/vector/hobby-icon-collection.jpg?s=612x612&w=0&k=20&c=O-Jc0uFeKTBzn2TShVLqlf79_BABLLhwW9WWGr42030="
+            },
+            "description": {
+                "text": "Explore your creative side with a workshop on DIY crafts and hobbies."
+            },
+            "location": {
+                "city": "Chennai",
+                "area": "T. Nagar, Chennai, Tamil Nadu"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next monday",
+                "week": "monday",
+                "month": "May 5",
+                "local": "2025-05-05T14:00:00",
+                "utc": "8:30-11:30am"
+            },
+            "about": {
+                "hours": "event lasts 3 hours",
+                "age": "All ages",
+                "parking": "street parking available"
+            }
+        },
+        
+        {
+            "id": "33",
+            "title": "Business Networking Conference @ Mumbai",
+            "organizerName": "By Corporate Connect",
+            "followers": "800 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$250",
+            "online": "offline",
+            "logo": {
+                "url": "https://plus.unsplash.com/premium_photo-1661494266874-a18be6bda750?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8YnVzaW5lc3MlMjBldmVudHxlbnwwfHwwfHx8MA%3D%3D"
+            },
+            "description": {
+                "text": "Network with industry leaders, attend seminars, and discover new business opportunities."
+            },
+            "location": {
+                "city": "Mumbai",
+                "area": "Bandra Kurla Complex, Mumbai, Maharashtra"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next thursday",
+                "week": "thursday",
+                "month": "May 8",
+                "local": "2025-05-08T09:00:00",
+                "utc": "3:30-6:30am"
+            },
+            "about": {
+                "hours": "event lasts 7 hours",
+                "age": "21+ only",
+                "parking": "valet parking available"
+            }
+        },
+        {
+            "id": "34",
+            "title": "Family Holiday Carnival @ Goa",
+            "organizerName": "By Holiday Hub",
+            "followers": "670 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$80",
+            "online": "offline",
+            "logo": {
+                "url": "https://cdn.firstcry.com/education/2022/06/05163333/Essay-on-holiday.jpg"
+            },
+            "description": {
+                "text": "A fun-filled carnival with games, rides, and activities for the whole family."
+            },
+            "location": {
+                "city": "Goa",
+                "area": "Anjuna Beach, Goa"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "next weekend",
+                "week": "saturday",
+                "month": "May 10",
+                "local": "2025-05-10T11:00:00",
+                "utc": "5:30-8:30am"
+            },
+            "about": {
+                "hours": "event lasts 5 hours",
+                "age": "All ages",
+                "parking": "ample parking available"
+            }
+        },
+        {
+            "id": "35",
+            "title": "Inter-University Basketball Championship @ Delhi",
+            "organizerName": "By Delhi Sports Association",
+            "followers": "720 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$15",
+            "online": "offline",
+            "logo": {
+                "url": "https://weezevent.com/wp-content/uploads/2023/01/18142503/organiser-evenement-sportif.jpg"
+            },
+            "description": {
+                "text": "Watch top university teams battle it out in an exciting basketball championship."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "Jawaharlal Nehru Stadium, New Delhi"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 15",
+                "week": "thursday",
+                "month": "May 15",
+                "local": "2025-05-15T16:00:00",
+                "utc": "10:30-1:30pm"
+            },
+            "about": {
+                "hours": "event lasts 4 hours",
+                "age": "All ages",
+                "parking": "stadium parking available"
+            }
+        },
+        {
+            "id": "36",
+            "title": "Vintage Music Birthday Party @ Pune",
+            "organizerName": "By Retro Beats",
+            "followers": "640 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$130",
+            "online": "offline",
+            "logo": {
+                "url": "https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/EB5F/production/_130355206_1041e5ece0e9f6b2832562aba3815faa7e9c6eed.jpg"
+            },
+            "description": {
+                "text": "Celebrate with a vintage-themed birthday party featuring classic hits and retro decor."
+            },
+            "location": {
+                "city": "Pune",
+                "area": "Koregaon Park, Pune, Maharashtra"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 20",
+                "week": "tuesday",
+                "month": "May 20",
+                "local": "2025-05-20T19:00:00",
+                "utc": "1:30-4:30pm"
+            },
+            "about": {
+                "hours": "event lasts 6 hours",
+                "age": "21+ only",
+                "parking": "free parking available"
+            }
+        },
+        {
+            "id": "37",
+            "title": "Gourmet Food Truck Festival @ Hyderabad",
+            "organizerName": "By Street Eats",
+            "followers": "510 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$25",
+            "online": "offline",
+            "logo": {
+                "url": "https://st.depositphotos.com/1588534/4460/i/450/depositphotos_44608241-stock-photo-cheese-sausages-and-wine.jpg"
+            },
+            "description": {
+                "text": "Experience a variety of cuisines from the best food trucks in the city."
+            },
+            "location": {
+                "city": "Hyderabad",
+                "area": "Hitech City, Hyderabad, Telangana"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 22",
+                "week": "thursday",
+                "month": "May 22",
+                "local": "2025-05-22T12:00:00",
+                "utc": "6:30-9:30am"
+            },
+            "about": {
+                "hours": "event lasts 5 hours",
+                "age": "All ages",
+                "parking": "ample street parking"
+            }
+        },
+        {
+            "id": "38",
+            "title": "Bangalore Marathon 2025",
+            "organizerName": "By RunForLife",
+            "followers": "800 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$25",
+            "online": "offline",
+            "logo": {
+                "url": "https://sportsdigest.in/wp-content/uploads/2022/02/Sports-makes-a-comeback-in-2022-Here-are-the-major-India-sporting-events-this-year-to-look-forward-to.jpg"
+            },
+            "description": {
+                "text": "Join thousands of runners in the annual Bangalore Marathon."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "Central Park, Bangalore, Karnataka"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 15",
+                "week": "saturday",
+                "month": "May",
+                "local": "2025-05-15T06:00:00",
+                "utc": "12:30-3:30am"
+            },
+            "about": {
+                "hours": "event lasts 5 hours",
+                "age": "All ages",
+                "parking": "available"
+            }
+        },
+        {
+            "id": "39",
+            "title": "Jazz Night Extravaganza",
+            "organizerName": "By Smooth Sounds",
+            "followers": "600 followers",
+            "follow": "Follow",
+            "category": "MUSIC",
+            "tickets": "$80",
+            "online": "offline",
+            "logo": {
+                "url": "https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,g_xy_center,h_394,q_75,w_601,x_2315,y_1737/v1/clients/austin/Jake_Lloyd_credit_Armaan_Ramzanali_Black_Fret_at_3TEN_1__23d8ac14-eb81-48de-a474-4914721da1be.jpg"
+            },
+            "description": {
+                "text": "Experience a soulful evening of live jazz performances."
+            },
+            "location": {
+                "city": "Kolkata",
+                "area": "Park Street, Kolkata, West Bengal"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 20",
+                "week": "wednesday",
+                "month": "May",
+                "local": "2025-05-20T20:00:00",
+                "utc": "2:30-5:30pm"
+            },
+            "about": {
+                "hours": "event lasts 4 hours",
+                "age": "21+ only",
+                "parking": "street parking available"
+            }
+        },
+        {
+            "id": "40",
+            "title": "Surprise Birthday Party",
+            "organizerName": "By Party Time",
+            "followers": "450 followers",
+            "follow": "Follow",
+            "category": "BIRTHDAY",
+            "tickets": "$70",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkzLMEW_Knph5UER1pllBK7Bw-yHK6ieO2sMmsdsipAzPUW0NmnTnD3WdS1_FPOO2mhs&usqp=CAU"
+            },
+            "description": {
+                "text": "A surprise birthday celebration with fun games and live music."
+            },
+            "location": {
+                "city": "Chennai",
+                "area": "Adyar, Chennai, Tamil Nadu"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 22",
+                "week": "friday",
+                "month": "May",
+                "local": "2025-05-22T18:00:00",
+                "utc": "12:30-3:30pm"
+            },
+            "about": {
+                "hours": "event lasts 4 hours",
+                "age": "All ages",
+                "parking": "available"
+            }
+        },
+        {
+            "id": "41",
+            "title": "Street Food Fiesta",
+            "organizerName": "By Urban Bites",
+            "followers": "750 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$40",
+            "online": "offline",
+            "logo": {
+                "url": "https://thumbs.dreamstime.com/b/various-types-cheese-wine-grapes-crackers-14008120.jpg"
+            },
+            "description": {
+                "text": "Indulge in a variety of street food delights from the best vendors."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "Chandni Chowk, Delhi, Delhi"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 25",
+                "week": "saturday",
+                "month": "May",
+                "local": "2025-05-25T11:00:00",
+                "utc": "5:30-8:30am"
+            },
+            "about": {
+                "hours": "event lasts 6 hours",
+                "age": "All ages",
+                "parking": "limited parking available"
+            }
+        },
+        {
+            "id": "42",
+            "title": "Pottery Making Workshop",
+            "organizerName": "By Clay & Canvas",
+            "followers": "320 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$45",
+            "online": "offline",
+            "logo": {
+                "url": "https://images.pexels.com/photos/610294/pexels-photo-610294.jpeg?cs=srgb&dl=pexels-david-bartus-43782-610294.jpg&fm=jpg"
+            },
+            "description": {
+                "text": "Learn the basics of pottery in this hands-on workshop."
+            },
+            "location": {
+                "city": "Jaipur",
+                "area": "Amber Fort, Jaipur, Rajasthan"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "May 28",
+                "week": "thursday",
+                "month": "May",
+                "local": "2025-05-28T14:00:00",
+                "utc": "8:30-11:30am"
+            },
+            "about": {
+                "hours": "event lasts 3 hours",
+                "age": "All ages",
+                "parking": "available"
+            }
+        },
+        
+        {
+            "id": "44",
+            "title": "Startup Pitch Fest",
+            "organizerName": "By Innovators Hub",
+            "followers": "900 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$150",
+            "online": "offline",
+            "logo": {
+                "url": "https://media.istockphoto.com/id/1446478773/photo/business-people-are-talking-together-during-a-teambuilding-event-in-a-luxury-restaurant.jpg?s=612x612&w=0&k=20&c=5TFUxQ-_opIp6SUWPbuDOItFH-RQAg9tJfxNGYjfsG8="
+            },
+            "description": {
+                "text": "Pitch your startup ideas to investors and industry leaders."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "Electronic City, Bangalore, Karnataka"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "June 2",
+                "week": "monday",
+                "month": "June",
+                "local": "2025-06-02T10:00:00",
+                "utc": "4:30-7:30am"
+            },
+            "about": {
+                "hours": "event lasts 8 hours",
+                "age": "21+ only",
+                "parking": "available"
+            }
+        },
+        {
+            "id": "45",
+            "title": "New Year Countdown Bash",
+            "organizerName": "By Party Central",
+            "followers": "1000 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$200",
+            "online": "offline",
+            "logo": {
+                "url": "https://cdn-az.allevents.in/events5/banners/5375b74d62809117a6c576ecd852026ce870adff4975b6861700f096bca7b015-rimg-w1200-h900-dc030307-gmir?v=1742344320"
+            },
+            "description": {
+                "text": "Celebrate New Year's Eve with a massive countdown party, live music, and fireworks."
+            },
+            "location": {
+                "city": "Goa",
+                "area": "Baga Beach, Goa"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "Dec 31",
+                "week": "wednesday",
+                "month": "December",
+                "local": "2025-12-31T22:00:00",
+                "utc": "4:30-7:30pm"
+            },
+            "about": {
+                "hours": "event lasts 8 hours",
+                "age": "All ages",
+                "parking": "limited parking available"
+            }
+        },
+        {
+            "id": "46",
+            "title": "Cricket League Finals",
+            "organizerName": "By Pune Cricket Club",
+            "followers": "850 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$30",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTatk6BHbMpUHNvFAnWilV6mxkUoRp70YyunA&s"
+            },
+            "description": {
+                "text": "Watch the thrilling finals of the local cricket league."
+            },
+            "location": {
+                "city": "Pune",
+                "area": "Maharashtra Cricket Association, Pune"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "June 5",
+                "week": "thursday",
+                "month": "June",
+                "local": "2025-06-05T15:00:00",
+                "utc": "9:30-12:30pm"
+            },
+            "about": {
+                "hours": "event lasts 4 hours",
+                "age": "All ages",
+                "parking": "available"
+            }
+        },
+        {
+            "id": "47",
+            "title": "Classical Music Evening",
+            "organizerName": "By Harmony House",
+            "followers": "680 followers",
+            "follow": "Follow",
+            "category": "MUSIC",
+            "tickets": "$85",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBqMCKNV5zp0hUbRJ9hsBhDPgakyCsjuSHZlyImWsfG_gbrlmakhtdBGaHUtoiejHBlz4&usqp=CAU"
+            },
+            "description": {
+                "text": "An elegant evening of classical music performances by renowned artists."
+            },
+            "location": {
+                "city": "Hyderabad",
+                "area": "HITEC City, Hyderabad, Telangana"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "June 8",
+                "week": "sunday",
+                "month": "June",
+                "local": "2025-06-08T19:00:00",
+                "utc": "1:30-4:30pm"
+            },
+            "about": {
+                "hours": "event lasts 3 hours",
+                "age": "All ages",
+                "parking": "available"
+            }
+        },
+        {
+            "id": "48",
+            "title": "Marathon for Charity @ Chennai",
+            "organizerName": "By Run4Hope",
+            "followers": "680 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$15",
+            "online": "offline",
+            "logo": {
+                "url": "https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg"
+            },
+            "description": {
+                "text": "Join a charity marathon to raise funds for local communities while staying fit."
+            },
+            "location": {
+                "city": "Chennai",
+                "area": "Besant Nagar Beach, Chennai, Tamil Nadu"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "June 12",
+                "week": "thursday",
+                "month": "June",
+                "local": "2025-06-12T06:30:00",
+                "utc": "12:30-3:30am"
+            },
+            "about": {
+                "hours": "event lasts 5 hours",
+                "age": "All ages",
+                "parking": "ample parking available"
+            }
+        },
+        {
+            "id": "49",
+            "title": "Retro Rock Birthday Party @ Kolkata",
+            "organizerName": "By Vintage Vibes",
+            "followers": "540 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$120",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj1kJic03Xz1h5-q8Tz9UpXthP6rE9OUTQ-g&s"
+            },
+            "description": {
+                "text": "Celebrate your birthday with classic rock hits, retro decor, and live band performances."
+            },
+            "location": {
+                "city": "Kolkata",
+                "area": "Salt Lake City, Kolkata, West Bengal"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "June 18",
+                "week": "wednesday",
+                "month": "June",
+                "local": "2025-06-18T20:00:00",
+                "utc": "2:30-5:30pm"
+            },
+            "about": {
+                "hours": "event lasts 6 hours",
+                "age": "21+ only",
+                "parking": "street parking available"
+            }
+        },
+        {
+            "id": "50",
+            "title": "Vegan Food Fest @ Bangalore",
+            "organizerName": "By Green Bites",
+            "followers": "620 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$35",
+            "online": "offline",
+            "logo": {
+                "url": "https://img.freepik.com/free-vector/foods-beverages-set_1308-101951.jpg?semt=ais_hybrid"
+            },
+            "description": {
+                "text": "Discover a wide range of vegan delights, live cooking demos, and organic markets."
+            },
+            "location": {
+                "city": "Bangalore",
+                "area": "Koramangala, Bangalore, Karnataka"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "June 22",
+                "week": "monday",
+                "month": "June",
+                "local": "2025-06-22T12:00:00",
+                "utc": "6:30-9:30am"
+            },
+            "about": {
+                "hours": "event lasts 7 hours",
+                "age": "All ages",
+                "parking": "ample parking available"
+            }
+        },
+        {
+            "id": "51",
+            "title": "Scrapbooking Workshop @ Pune",
+            "organizerName": "By Creative Corners",
+            "followers": "410 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$30",
+            "online": "offline",
+            "logo": {
+                "url": "https://thumbs.dreamstime.com/b/people-do-creative-hobbies-vector-hand-drawn-hobby-illustration-isolated-white-person-do-favorit-hobbies-people-do-creative-176133407.jpg"
+            },
+            "description": {
+                "text": "Learn creative scrapbooking techniques and craft personalized photo albums."
+            },
+            "location": {
+                "city": "Pune",
+                "area": "FC Road, Pune, Maharashtra"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "June 25",
+                "week": "wednesday",
+                "month": "June",
+                "local": "2025-06-25T15:00:00",
+                "utc": "9:30-12:30am"
+            },
+            "about": {
+                "hours": "event lasts 3 hours",
+                "age": "All ages",
+                "parking": "street parking available"
+            }
+        },
+        
+        {
+            "id": "53",
+            "title": "Tech Leadership Summit @ Hyderabad",
+            "organizerName": "By Innovate Leaders",
+            "followers": "880 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$300",
+            "online": "offline",
+            "logo": {
+                "url": "https://media.istockphoto.com/id/499517325/photo/a-man-speaking-at-a-business-conference.jpg?s=612x612&w=0&k=20&c=gWTTDs_Hl6AEGOunoQ2LsjrcTJkknf9G8BGqsywyEtE="
+            },
+            "description": {
+                "text": "A premier summit featuring keynote speakers, panels, and networking for tech leaders."
+            },
+            "location": {
+                "city": "Hyderabad",
+                "area": "Gachibowli, Hyderabad, Telangana"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "July 2",
+                "week": "wednesday",
+                "month": "July",
+                "local": "2025-07-02T09:00:00",
+                "utc": "3:30-6:30am"
+            },
+            "about": {
+                "hours": "event lasts 8 hours",
+                "age": "21+ only",
+                "parking": "valet parking available"
+            }
+        },
+        {
+            "id": "54",
+            "title": "Diwali Festival Extravaganza @ Jaipur",
+            "organizerName": "By Festive Flames",
+            "followers": "950 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$180",
+            "online": "offline",
+            "logo": {
+                "url": "https://www.alpsinluxury.com/blog/wp-content/uploads/2024/03/Waldschwimmbad-Lech-c-Daniel-Zangerl-Lech-Zurs-Tourismus-GmbH-1-1024x683.jpg"
+            },
+            "description": {
+                "text": "Celebrate the Festival of Lights with fireworks, cultural performances, and traditional feasts."
+            },
+            "location": {
+                "city": "Jaipur",
+                "area": "City Palace Road, Jaipur, Rajasthan"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "October 30",
+                "week": "thursday",
+                "month": "October",
+                "local": "2025-10-30T18:00:00",
+                "utc": "12:30-3:30pm"
+            },
+            "about": {
+                "hours": "event lasts 7 hours",
+                "age": "All ages",
+                "parking": "ample parking available"
+            }
+        },
+        {
+            "id": "55",
+            "title": "Cricket Showdown @ Mumbai",
+            "organizerName": "By Mumbai Cricket League",
+            "followers": "780 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$20",
+            "online": "offline",
+            "logo": {
+                "url": "https://www.pewresearch.org/wp-content/uploads/2024/03/SR_24.03.11_sports_feature-jpg.webp?w=640"
+            },
+            "description": {
+                "text": "Watch local teams battle it out in an action-packed cricket showdown."
+            },
+            "location": {
+                "city": "Mumbai",
+                "area": "Wankhede Stadium, Mumbai, Maharashtra"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "July 5",
+                "week": "saturday",
+                "month": "July",
+                "local": "2025-07-05T14:00:00",
+                "utc": "8:30-11:30am"
+            },
+            "about": {
+                "hours": "event lasts 4 hours",
+                "age": "All ages",
+                "parking": "available"
+            }
+        },
+        {
+            "id": "56",
+            "title": "Marathon Madness 2025 @ Kolkata",
+            "organizerName": "By Run Kolkata",
+            "followers": "850 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$30",
+            "online": "offline",
+            "logo": {
+                "url": "https://images.livemint.com/img/2021/12/18/original/Asian_Games_Kabaddi_GettyImages-1020458036_1639854336648.jpg"
+            },
+            "description": {
+                "text": "Join the annual marathon in Kolkata and challenge your limits on the city streets."
+            },
+            "location": {
+                "city": "Kolkata",
+                "area": "Eco Park, Kolkata, West Bengal"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "July 10",
+                "week": "friday",
+                "month": "July",
+                "local": "2025-07-10T06:00:00",
+                "utc": "12:30-3:30am"
+            },
+            "about": {
+                "hours": "event lasts 5 hours",
+                "age": "All ages",
+                "parking": "available"
+            }
+        },
+        {
+            "id": "57",
+            "title": "Electro Birthday Bash @ Mumbai",
+            "organizerName": "By BeatBlast",
+            "followers": "920 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$150",
+            "online": "offline",
+            "logo": {
+                "url": "https://www.hardrockcasinosiouxcity.com/wp-content/uploads/2024/10/EventsHero.jpg"
+            },
+            "description": {
+                "text": "Celebrate your birthday with electrifying beats, neon lights, and a live DJ."
+            },
+            "location": {
+                "city": "Mumbai",
+                "area": "Lower Parel, Mumbai, Maharashtra"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "July 15",
+                "week": "wednesday",
+                "month": "July",
+                "local": "2025-07-15T20:00:00",
+                "utc": "2:30-5:30pm"
+            },
+            "about": {
+                "hours": "event lasts 6 hours",
+                "age": "21+ only",
+                "parking": "valet parking available"
+            }
+        },
+        {
+            "id": "58",
+            "title": "Gastronomic Gala @ Delhi",
+            "organizerName": "By Taste Trail",
+            "followers": "780 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$45",
+            "online": "offline",
+            "logo": {
+                "url": "https://media.gettyimages.com/id/1829241109/photo/enjoying-a-brunch-together.jpg?s=612x612&w=gi&k=20&c=SFRYlKrWD84RMNV_c8fIliBep7WHoV-0s6IBc5FJsmE="
+            },
+            "description": {
+                "text": "Savor exquisite dishes and specialty drinks at this exclusive culinary event."
+            },
+            "location": {
+                "city": "Delhi",
+                "area": "Connaught Place, New Delhi, Delhi"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "July 20",
+                "week": "sunday",
+                "month": "July",
+                "local": "2025-07-20T12:00:00",
+                "utc": "6:30-9:30am"
+            },
+            "about": {
+                "hours": "event lasts 5 hours",
+                "age": "All ages",
+                "parking": "ample parking available"
+            }
+        },
+        {
+            "id": "59",
+            "title": "Creative Pottery & Painting Workshop @ Jaipur",
+            "organizerName": "By Artisans Hub",
+            "followers": "560 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$40",
+            "online": "offline",
+            "logo": {
+                "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqJPYCZLwRYa8B749kZ_G4r7llyikVfqwkXQ&s"
+            },
+            "description": {
+                "text": "Unleash your creativity with a combined pottery and painting workshop."
+            },
+            "location": {
+                "city": "Jaipur",
+                "area": "C-Scheme, Jaipur, Rajasthan"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "July 25",
+                "week": "friday",
+                "month": "July",
+                "local": "2025-07-25T14:00:00",
+                "utc": "8:30-11:30am"
+            },
+            "about": {
+                "hours": "event lasts 3 hours",
+                "age": "All ages",
+                "parking": "street parking available"
+            }
+        },
+        
+        {
+            "id": "61",
+            "title": "Entrepreneur Meet-Up @ Chennai",
+            "organizerName": "By BizConnect",
+            "followers": "710 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$180",
+            "online": "offline",
+            "logo": {
+                "url": "https://www.shutterstock.com/image-photo/round-table-discussion-business-conference-260nw-2315079225.jpg"
+            },
+            "description": {
+                "text": "Connect with business leaders and startups for networking and collaboration."
+            },
+            "location": {
+                "city": "Chennai",
+                "area": "Teynampet, Chennai, Tamil Nadu"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "August 2",
+                "week": "sunday",
+                "month": "August",
+                "local": "2025-08-02T10:00:00",
+                "utc": "4:30-7:30am"
+            },
+            "about": {
+                "hours": "event lasts 7 hours",
+                "age": "21+ only",
+                "parking": "onsite parking available"
+            }
+        },
+        {
+            "id": "62",
+            "title": "New Year's Eve Extravaganza @ Goa",
+            "organizerName": "By Celebration Central",
+            "followers": "1100 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$220",
+            "online": "offline",
+            "logo": {
+                "url": "https://media.istockphoto.com/id/690323030/photo/young-happy-family-enjoying-on-a-picnic-during-spring-day.jpg?s=612x612&w=0&k=20&c=uM1485iynQ7qQ_U_DLKY-3y1rp9Yp4ZAXWhTsoQR6V8="
+            },
+            "description": {
+                "text": "Ring in the new year with a grand party featuring live performances, fireworks, and more."
+            },
+            "location": {
+                "city": "Goa",
+                "area": "Candolim Beach, Goa"
+            },
+            "start": {
+                "timezone": "India",
+                "time": "Dec 31",
+                "week": "wednesday",
+                "month": "December",
+                "local": "2025-12-31T22:00:00",
+                "utc": "4:30-7:30pm"
+            },
+            "about": {
+                "hours": "event lasts 10 hours",
+                "age": "All ages",
+                "parking": "limited parking available"
+            }
+        },
+        {
+            "id": "63",
+            "title": "Delhi Ultra Marathon 2025",
+            "organizerName": "By Delhi Runners",
+            "followers": "900 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$25",
+            "online": "offline",
+            "logo": {
+              "url": "https://img.evbuc.com/event-63.jpg"
+            },
+            "description": {
+              "text": "Push your limits in the ultimate marathon challenge across Delhi."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "India Gate, New Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 5",
+              "week": "wednesday",
+              "month": "August",
+              "local": "2025-08-05T06:00:00",
+              "utc": "12:30-3:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "64",
+            "title": "Hip-Hop Birthday Jam",
+            "organizerName": "By Beat Masters",
+            "followers": "750 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$120",
+            "online": "offline",
+            "logo": {
+              "url": "https://cdn0.weddingwire.in/vendor/0085/3_2/960/jpg/file-1678007859632_15_400085-167800786184788.jpeg"
+            },
+            "description": {
+              "text": "Celebrate your birthday with a live hip-hop performance and DJ set."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Bandra, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 7",
+              "week": "friday",
+              "month": "August",
+              "local": "2025-08-07T20:00:00",
+              "utc": "2:30-5:30pm"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "65",
+            "title": "Gourmet Street Food Fiesta",
+            "organizerName": "By Urban Flavors",
+            "followers": "800 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$35",
+            "online": "offline",
+            "logo": {
+              "url": "https://media.gettyimages.com/id/1075698844/photo/directly-above-view-of-friends-having-brunch-at-the-restaurant.jpg?s=612x612&w=gi&k=20&c=UA9YyH3_fVRvZOZmxP_AFsqeEnVb0sHkbCXPvJEGPFU="
+            },
+            "description": {
+              "text": "Taste the best street food from top vendors at this culinary festival."
+            },
+            "location": {
+              "city": "Kolkata",
+              "area": "Esplanade, Kolkata, West Bengal"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 10",
+              "week": "monday",
+              "month": "August",
+              "local": "2025-08-10T12:00:00",
+              "utc": "6:30-9:30am"
+            },
+            "about": {
+              "hours": "event lasts 7 hours",
+              "age": "All ages",
+              "parking": "street parking available"
+            }
+          },
+          {
+            "id": "66",
+            "title": "DIY Jewelry Making Workshop",
+            "organizerName": "By Craft Corner",
+            "followers": "450 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$40",
+            "online": "offline",
+            "logo": {
+              "url": "https://partnersinfire.com/wp-content/uploads/2021/07/creative-hobbies.png.webp"
+            },
+            "description": {
+              "text": "Learn to create stunning handmade jewelry in this interactive workshop."
+            },
+            "location": {
+              "city": "Chennai",
+              "area": "Adyar, Chennai, Tamil Nadu"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 12",
+              "week": "wednesday",
+              "month": "August",
+              "local": "2025-08-12T14:00:00",
+              "utc": "8:30-11:30am"
+            },
+            "about": {
+              "hours": "event lasts 3 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "67",
+            "title": "Evening Singles Soirée",
+            "organizerName": "By HeartBeat Events",
+            "followers": "600 followers",
+            "follow": "Follow",
+            "category": "DATING",
+            "tickets": "$50",
+            "online": "offline",
+            "logo": {
+              "url": "https://img.evbuc.com/event-67.jpg"
+            },
+            "description": {
+              "text": "Mix and mingle at this relaxed singles event with engaging activities."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "MG Road, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 15",
+              "week": "saturday",
+              "month": "August",
+              "local": "2025-08-15T19:00:00",
+              "utc": "1:30-4:30pm"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "21+ only",
+              "parking": "ample parking available"
+            }
+          },
+          {
+            "id": "68",
+            "title": "Startup Networking Mixer",
+            "organizerName": "By Venture Connect",
+            "followers": "950 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$200",
+            "online": "offline",
+            "logo": {
+              "url": "https://www.shutterstock.com/image-photo/group-young-startup-founders-meeting-260nw-2426791565.jpg"
+            },
+            "description": {
+              "text": "Connect with entrepreneurs and investors in a dynamic networking session."
+            },
+            "location": {
+              "city": "Hyderabad",
+              "area": "HITEC City, Hyderabad, Telangana"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 18",
+              "week": "tuesday",
+              "month": "August",
+              "local": "2025-08-18T10:00:00",
+              "utc": "4:30-7:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "69",
+            "title": "Summer Beach Festival",
+            "organizerName": "By SunSplash Events",
+            "followers": "1100 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$180",
+            "online": "offline",
+            "logo": {
+              "url": "https://utsav.gov.in/public/uploads/event_picture_image/event_2664/1727125815107002723.jpg"
+            },
+            "description": {
+              "text": "Enjoy music, games, and a beach party under the summer sun."
+            },
+            "location": {
+              "city": "Goa",
+              "area": "Anjuna Beach, Goa"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 20",
+              "week": "thursday",
+              "month": "August",
+              "local": "2025-08-20T15:00:00",
+              "utc": "9:30-12:30am"
+            },
+            "about": {
+              "hours": "event lasts 8 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "70",
+            "title": "Mumbai Cricket Challenge",
+            "organizerName": "By Mumbai Cricket Club",
+            "followers": "850 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$20",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKq0EeZGH2DCjRYLxbwytpcjdLejbVPLfDQQ&s"
+            },
+            "description": {
+              "text": "Participate in a thrilling cricket challenge and showcase your skills."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Wankhede Stadium, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 22",
+              "week": "saturday",
+              "month": "August",
+              "local": "2025-08-22T10:00:00",
+              "utc": "4:30-7:30am"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "71",
+            "title": "Pop Star Birthday Bash",
+            "organizerName": "By Star Beats",
+            "followers": "780 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$140",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGR2RW4dDa9cOX1yy7Rr4Uab4k2uEB6Q5ZfQ&s"
+            },
+            "description": {
+              "text": "Celebrate with pop hits, live performances, and a dance floor to remember."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "Connaught Place, New Delhi, Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 25",
+              "week": "tuesday",
+              "month": "August",
+              "local": "2025-08-25T20:00:00",
+              "utc": "2:30-5:30pm"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "72",
+            "title": "Fusion Food Carnival",
+            "organizerName": "By Culinary Craze",
+            "followers": "920 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$50",
+            "online": "offline",
+            "logo": {
+              "url": "https://deliciouslyorkshire.co.uk/wp-content/uploads/2025/03/Picture-1.jpg"
+            },
+            "description": {
+              "text": "Experience a fusion of flavors from different cuisines in one festival."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "Koramangala, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 28",
+              "week": "friday",
+              "month": "August",
+              "local": "2025-08-28T12:00:00",
+              "utc": "6:30-9:30am"
+            },
+            "about": {
+              "hours": "event lasts 7 hours",
+              "age": "All ages",
+              "parking": "ample parking available"
+            }
+          },
+          {
+            "id": "73",
+            "title": "Calligraphy and Art Workshop",
+            "organizerName": "By Ink & Creativity",
+            "followers": "510 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$35",
+            "online": "offline",
+            "logo": {
+              "url": "https://images.yourstory.com/cs/2/96eabe90392211eb93f18319e8c07a74/Imagej5tl-1699598892927.jpg?mode=crop&crop=faces&ar=2%3A1&format=auto&w=1920&q=75"
+            },
+            "description": {
+              "text": "Learn the art of calligraphy and create beautiful handwritten art pieces."
+            },
+            "location": {
+              "city": "Hyderabad",
+              "area": "Banjara Hills, Hyderabad, Telangana"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "August 30",
+              "week": "sunday",
+              "month": "August",
+              "local": "2025-08-30T14:00:00",
+              "utc": "8:30-11:30am"
+            },
+            "about": {
+              "hours": "event lasts 3 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "74",
+            "title": "Romantic Dinner Date",
+            "organizerName": "By Love Dine",
+            "followers": "670 followers",
+            "follow": "Follow",
+            "category": "DATING",
+            "tickets": "$80",
+            "online": "offline",
+            "logo": {
+              "url": "https://img.evbuc.com/event-74.jpg"
+            },
+            "description": {
+              "text": "Enjoy a candlelit dinner in an intimate setting perfect for new connections."
+            },
+            "location": {
+              "city": "Jaipur",
+              "area": "Pink City, Jaipur, Rajasthan"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 2",
+              "week": "tuesday",
+              "month": "September",
+              "local": "2025-09-02T19:00:00",
+              "utc": "1:30-4:30pm"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "75",
+            "title": "Entrepreneurship Forum 2025",
+            "organizerName": "By Biz Innovators",
+            "followers": "1020 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$250",
+            "online": "offline",
+            "logo": {
+              "url": "https://jshay.events/wp-content/uploads/2020/06/Corporate-Events.jpg"
+            },
+            "description": {
+              "text": "Join industry leaders for talks and networking at the annual entrepreneurship forum."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Bandra Kurla Complex, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 5",
+              "week": "friday",
+              "month": "September",
+              "local": "2025-09-05T09:00:00",
+              "utc": "3:30-6:30am"
+            },
+            "about": {
+              "hours": "event lasts 8 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "76",
+            "title": "Autumn Harvest Festival",
+            "organizerName": "By Nature Fest",
+            "followers": "980 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$75",
+            "online": "offline",
+            "logo": {
+              "url": "https://quantumuniversity.edu.in/news-center/wp-content/uploads/2022/04/5-day-scaled.jpg"
+            },
+            "description": {
+              "text": "Celebrate the beauty of autumn with seasonal food, crafts, and live music."
+            },
+            "location": {
+              "city": "Kolkata",
+              "area": "Park Street, Kolkata, West Bengal"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 8",
+              "week": "monday",
+              "month": "September",
+              "local": "2025-09-08T11:00:00",
+              "utc": "5:30-8:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "77",
+            "title": "Cycling Championship 2025",
+            "organizerName": "By Cycle Pro",
+            "followers": "760 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$30",
+            "online": "offline",
+            "logo": {
+              "url": "https://images.mid-day.com/images/images/2025/mar/ishansrh_d.jpg"
+            },
+            "description": {
+              "text": "Compete in the annual cycling championship and test your endurance."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "Cubbon Park, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 10",
+              "week": "wednesday",
+              "month": "September",
+              "local": "2025-09-10T07:00:00",
+              "utc": "1:30-4:30am"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "78",
+            "title": "Electronic Dance Birthday Bash",
+            "organizerName": "By Electro Vibes",
+            "followers": "840 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$160",
+            "online": "offline",
+            "logo": {
+              "url": "https://i.pinimg.com/736x/5a/5d/6a/5a5d6a4702d4b388d9a2b663ebf2986e.jpg"
+            },
+            "description": {
+              "text": "Dance all night at this EDM birthday celebration with top DJs."
+            },
+            "location": {
+              "city": "Hyderabad",
+              "area": "Hitech City, Hyderabad, Telangana"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 12",
+              "week": "friday",
+              "month": "September",
+              "local": "2025-09-12T21:00:00",
+              "utc": "3:30-6:30pm"
+            },
+            "about": {
+              "hours": "event lasts 7 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "79",
+            "title": "Craft Beer & BBQ Fest",
+            "organizerName": "By Brew & Bite",
+            "followers": "780 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$45",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgla-8nGZdSOZaf_qOSCCouldxH1mnUX0mrw&s"
+            },
+            "description": {
+              "text": "Enjoy a festival of craft beer paired with delicious BBQ treats."
+            },
+            "location": {
+              "city": "Pune",
+              "area": "Hinjewadi, Pune, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 15",
+              "week": "monday",
+              "month": "September",
+              "local": "2025-09-15T13:00:00",
+              "utc": "7:30-10:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "21+ only",
+              "parking": "ample parking available"
+            }
+          },
+          {
+            "id": "80",
+            "title": "Photography Walk & Workshop",
+            "organizerName": "By Shutterbugs",
+            "followers": "640 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$50",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqq5o2gUrfNr5Kkg3T0rCOde0amjc8nDMShw&s"
+            },
+            "description": {
+              "text": "Capture stunning images and learn photography tips on a guided city walk."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Marine Drive, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 18",
+              "week": "thursday",
+              "month": "September",
+              "local": "2025-09-18T08:00:00",
+              "utc": "2:30-5:30am"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "All ages",
+              "parking": "street parking available"
+            }
+          },
+          {
+            "id": "81",
+            "title": "Wine & Dine Singles Night",
+            "organizerName": "By Date & Sip",
+            "followers": "710 followers",
+            "follow": "Follow",
+            "category": "DATING",
+            "tickets": "$70",
+            "online": "offline",
+            "logo": {
+              "url": "https://img.evbuc.com/event-81.jpg"
+            },
+            "description": {
+              "text": "A refined evening of wine tasting and gourmet dining for singles."
+            },
+            "location": {
+              "city": "Chennai",
+              "area": "Anna Salai, Chennai, Tamil Nadu"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 20",
+              "week": "saturday",
+              "month": "September",
+              "local": "2025-09-20T19:00:00",
+              "utc": "1:30-4:30pm"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "82",
+            "title": "Innovation Summit 2025",
+            "organizerName": "By Tech Leaders",
+            "followers": "1150 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$300",
+            "online": "offline",
+            "logo": {
+              "url": "https://3.imimg.com/data3/EK/TB/MY-3385124/3-250x250.jpg"
+            },
+            "description": {
+              "text": "A gathering of visionary leaders to discuss the future of technology and business."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "Whitefield, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 22",
+              "week": "monday",
+              "month": "September",
+              "local": "2025-09-22T10:00:00",
+              "utc": "4:30-7:30am"
+            },
+            "about": {
+              "hours": "event lasts 9 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "83",
+            "title": "Winter Wonderland Carnival",
+            "organizerName": "By Frost Fest",
+            "followers": "1050 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$150",
+            "online": "offline",
+            "logo": {
+              "url": "https://www.bhg.com/thmb/jJ5ataujaLjaQqLmijyZAZHxmyE=/1866x0/filters:no_upscale():strip_icc()/friends-doing-cheers-at-outdoor-dinner-61e975ab96cc404996e327a6bcf6aef1.jpg"
+            },
+            "description": {
+              "text": "Celebrate the winter season with festive lights, rides, and treats."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "Rohini, Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 15",
+              "week": "monday",
+              "month": "December",
+              "local": "2025-12-15T16:00:00",
+              "utc": "10:30-1:30pm"
+            },
+            "about": {
+              "hours": "event lasts 8 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "84",
+            "title": "Table Tennis Open 2025",
+            "organizerName": "By Ping Pong Pros",
+            "followers": "650 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$10",
+            "online": "offline",
+            "logo": {
+              "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-04/17/full/1713292452-6446.jpg?im=FitAndFill=(826,465)"
+            },
+            "description": {
+              "text": "Compete in a fast-paced table tennis tournament open to all skill levels."
+            },
+            "location": {
+              "city": "Jaipur",
+              "area": "Malviya Nagar, Jaipur, Rajasthan"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 25",
+              "week": "wednesday",
+              "month": "September",
+              "local": "2025-09-25T09:00:00",
+              "utc": "3:30-6:30am"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "85",
+            "title": "Retro Disco Birthday Party",
+            "organizerName": "By Disco Divas",
+            "followers": "720 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$130",
+            "online": "offline",
+            "logo": {
+              "url": "https://www.anandamevents.com/wp-content/uploads/2024/10/music-show-organisers.jpg"
+            },
+            "description": {
+              "text": "Get groovy at this retro disco-themed birthday celebration with classic tunes."
+            },
+            "location": {
+              "city": "Chennai",
+              "area": "T. Nagar, Chennai, Tamil Nadu"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "September 28",
+              "week": "saturday",
+              "month": "September",
+              "local": "2025-09-28T20:00:00",
+              "utc": "2:30-5:30pm"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "86",
+            "title": "Sushi & Sake Night",
+            "organizerName": "By Tokyo Treats",
+            "followers": "690 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$60",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYRoedcZM_K8oWQQkqbbsMEQDEmptfUSQ4eA&s"
+            },
+            "description": {
+              "text": "Experience an authentic Japanese culinary evening featuring sushi and sake tasting."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Lower Parel, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "October 1",
+              "week": "thursday",
+              "month": "October",
+              "local": "2025-10-01T19:00:00",
+              "utc": "1:30-4:30pm"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "21+ only",
+              "parking": "street parking available"
+            }
+          },
+          {
+            "id": "87",
+            "title": "Pottery Wheel Workshop",
+            "organizerName": "By Clay Creations",
+            "followers": "530 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$45",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlNxmsBt7IglU1qD7Vh8dWgQ5PDrsQpVPEZQRbmPMe-UtCVFUNKZJdxmovQ4tLl8njz4&usqp=CAU"
+            },
+            "description": {
+              "text": "Master the art of pottery wheel techniques in this hands-on workshop."
+            },
+            "location": {
+              "city": "Pune",
+              "area": "FC Road, Pune, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "October 4",
+              "week": "sunday",
+              "month": "October",
+              "local": "2025-10-04T14:00:00",
+              "utc": "8:30-11:30am"
+            },
+            "about": {
+              "hours": "event lasts 3 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          
+          {
+            "id": "89",
+            "title": "Investor Connect Summit",
+            "organizerName": "By Capital Ventures",
+            "followers": "1250 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$350",
+            "online": "offline",
+            "logo": {
+              "url": "https://cdn-az.allevents.in/events6/banners/b2577cb0-b658-11ef-b4ed-1f3654d0e8f1-rimg-w1200-h686-dc191e2d-gmir.jpg?v=1733767761"
+            },
+            "description": {
+              "text": "Pitch your ideas and connect with top investors at this exclusive summit."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "Connaught Place, New Delhi, Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "October 10",
+              "week": "saturday",
+              "month": "October",
+              "local": "2025-10-10T10:00:00",
+              "utc": "4:30-7:30am"
+            },
+            "about": {
+              "hours": "event lasts 8 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "90",
+            "title": "Diwali Mela 2025",
+            "organizerName": "By Festive Lights",
+            "followers": "1300 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$100",
+            "online": "offline",
+            "logo": {
+              "url": "https://www.festclasica.com/img/image/fotos/angelahewitt_quartettodicremona.jpg?w=1500&h=1000&zc=1&aoe=1&q=80"
+            },
+            "description": {
+              "text": "Celebrate Diwali with a grand mela featuring fireworks, music, and food stalls."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Marina, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "November 5",
+              "week": "wednesday",
+              "month": "November",
+              "local": "2025-11-05T17:00:00",
+              "utc": "11:30-2:30am"
+            },
+            "about": {
+              "hours": "event lasts 7 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "91",
+            "title": "Inter-College Football Cup",
+            "organizerName": "By Football Stars",
+            "followers": "800 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$15",
+            "online": "offline",
+            "logo": {
+              "url": "https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2023-04/nba-plain--2813f348-9d85-41da-8b5a-e289f1082f4e.jpeg?itok=F51CLxsc"
+            },
+            "description": {
+              "text": "Watch college teams compete in an intense football championship."
+            },
+            "location": {
+              "city": "Chennai",
+              "area": "Anna Stadium, Chennai, Tamil Nadu"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "November 8",
+              "week": "sunday",
+              "month": "November",
+              "local": "2025-11-08T15:00:00",
+              "utc": "9:30-12:30pm"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "92",
+            "title": "Reggae Birthday Vibes",
+            "organizerName": "By Island Beats",
+            "followers": "750 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$110",
+            "online": "offline",
+            "logo": {
+              "url": "https://www.musicaldreams.in/wp-content/uploads/2024/03/best-live-bands-in-delhi.jpg"
+            },
+            "description": {
+              "text": "Celebrate with reggae rhythms and tropical vibes at this birthday bash."
+            },
+            "location": {
+              "city": "Goa",
+              "area": "Panaji, Goa"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "November 10",
+              "week": "tuesday",
+              "month": "November",
+              "local": "2025-11-10T20:00:00",
+              "utc": "2:30-5:30pm"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "93",
+            "title": "Chocolate Lovers Fest",
+            "organizerName": "By Sweet Delights",
+            "followers": "860 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$40",
+            "online": "offline",
+            "logo": {
+              "url": "https://images.squarespace-cdn.com/content/v1/5eb8df4ad4280a6eb9c4edb2/592f584b-c177-449e-9e87-b3eef316a014/HERO+SHOT+-Night+Menu.jpg"
+            },
+            "description": {
+              "text": "Indulge in a variety of chocolate treats and desserts at this festival."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "Indiranagar, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "November 12",
+              "week": "thursday",
+              "month": "November",
+              "local": "2025-11-12T12:00:00",
+              "utc": "6:30-9:30am"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "All ages",
+              "parking": "ample parking available"
+            }
+          },
+          {
+            "id": "94",
+            "title": "Creative Writing Workshop",
+            "organizerName": "By WordSmiths",
+            "followers": "540 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$30",
+            "online": "offline",
+            "logo": {
+              "url": "https://i.pinimg.com/736x/ec/37/9f/ec379ffcdc5fb06b147cfd88d61b9896.jpg"
+            },
+            "description": {
+              "text": "Enhance your writing skills in this interactive creative writing session."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "South Extension, New Delhi, Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "November 15",
+              "week": "sunday",
+              "month": "November",
+              "local": "2025-11-15T16:00:00",
+              "utc": "10:30-1:30pm"
+            },
+            "about": {
+              "hours": "event lasts 3 hours",
+              "age": "18+ only",
+              "parking": "available"
+            }
+          },
+          
+          {
+            "id": "96",
+            "title": "Digital Marketing Expo",
+            "organizerName": "By Market Masters",
+            "followers": "980 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$270",
+            "online": "offline",
+            "logo": {
+              "url": "https://imageio.forbes.com/specials-images/imageserve/1146473379/Hosting-events-is-a-great-way-to-build-your-network-and-personal-brand/960x0.jpg?format=jpg&width=960"
+            },
+            "description": {
+              "text": "Discover the latest trends in digital marketing at this comprehensive expo."
+            },
+            "location": {
+              "city": "Hyderabad",
+              "area": "Gachibowli, Hyderabad, Telangana"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "November 20",
+              "week": "friday",
+              "month": "November",
+              "local": "2025-11-20T10:00:00",
+              "utc": "4:30-7:30am"
+            },
+            "about": {
+              "hours": "event lasts 7 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "97",
+            "title": "Christmas Wonderland Market",
+            "organizerName": "By Festive Markets",
+            "followers": "1150 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$90",
+            "online": "offline",
+            "logo": {
+              "url": "https://media.istockphoto.com/id/1137373430/photo/happy-family-running-on-beach.jpg?s=612x612&w=0&k=20&c=NI30iup8MGIa5NV1ENdQ7cpA0N0CKWp8ShAbUR3cFK8="
+            },
+            "description": {
+              "text": "Shop, dine, and celebrate the festive season at this Christmas market."
+            },
+            "location": {
+              "city": "Chennai",
+              "area": "Velachery, Chennai, Tamil Nadu"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 10",
+              "week": "wednesday",
+              "month": "December",
+              "local": "2025-12-10T11:00:00",
+              "utc": "5:30-8:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "98",
+            "title": "Badminton Open Championship",
+            "organizerName": "By Smash Club",
+            "followers": "700 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$18",
+            "online": "offline",
+            "logo": {
+              "url": "https://cdn.britannica.com/44/256944-050-8D414329/PV-Sindhu-2020-Tokyo-Olympics.jpg"
+            },
+            "description": {
+              "text": "Showcase your skills at the badminton open championship and win exciting prizes."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "Sankey Tank, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 12",
+              "week": "friday",
+              "month": "December",
+              "local": "2025-12-12T09:00:00",
+              "utc": "3:30-6:30am"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "99",
+            "title": "Indie Acoustic Birthday Jam",
+            "organizerName": "By Acoustic Aura",
+            "followers": "680 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$115",
+            "online": "offline",
+            "logo": {
+              "url": "https://s1.ticketm.net/dam/e/89d/9f4dbce3-7acb-45d4-9dd3-e711d1db089d_TABLET_LANDSCAPE_16_9.jpg"
+            },
+            "description": {
+              "text": "Celebrate your birthday with soulful indie acoustic performances in an intimate setting."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "Hauz Khas, New Delhi, Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 15",
+              "week": "monday",
+              "month": "December",
+              "local": "2025-12-15T20:00:00",
+              "utc": "2:30-5:30pm"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "100",
+            "title": "Global Cuisine Food Fest",
+            "organizerName": "By World Bites",
+            "followers": "950 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$55",
+            "online": "offline",
+            "logo": {
+              "url": "https://static.vecteezy.com/system/resources/thumbnails/045/931/302/small/various-cold-drink-cups-and-ice-balls-professional-advertising-foodgraphy-photo.jpg"
+            },
+            "description": {
+              "text": "Sample dishes from around the world at this international food festival."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Bandra, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 18",
+              "week": "thursday",
+              "month": "December",
+              "local": "2025-12-18T12:00:00",
+              "utc": "6:30-9:30am"
+            },
+            "about": {
+              "hours": "event lasts 7 hours",
+              "age": "All ages",
+              "parking": "ample parking available"
+            }
+          },
+          {
+            "id": "101",
+            "title": "Origami Folding Workshop",
+            "organizerName": "By Paper Artistry",
+            "followers": "520 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$35",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm9rhixphx6xGwlRjloN-29ALTQipLzHSie0Ul0FHxGvvqDtK9E_eyH7MeIgMg9rl94Io&usqp=CAU"
+            },
+            "description": {
+              "text": "Discover the delicate art of origami in this beginner-friendly workshop."
+            },
+            "location": {
+              "city": "Chennai",
+              "area": "T. Nagar, Chennai, Tamil Nadu"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 20",
+              "week": "saturday",
+              "month": "December",
+              "local": "2025-12-20T15:00:00",
+              "utc": "9:30-12:30am"
+            },
+            "about": {
+              "hours": "event lasts 3 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          
+          {
+            "id": "103",
+            "title": "Global Business Forum",
+            "organizerName": "By International Trade",
+            "followers": "1300 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$400",
+            "online": "offline",
+            "logo": {
+              "url": "https://www.simplilearn.com/ice9/free_resources_article_thumb/KPIs_in_Project_Management.jpg"
+            },
+            "description": {
+              "text": "Engage with global leaders in business and trade at this high-profile forum."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "Central Delhi, Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 25",
+              "week": "wednesday",
+              "month": "December",
+              "local": "2025-12-25T09:00:00",
+              "utc": "3:30-6:30am"
+            },
+            "about": {
+              "hours": "event lasts 9 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "104",
+            "title": "New Year's Eve Gala",
+            "organizerName": "By Celebration Hub",
+            "followers": "1500 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$500",
+            "online": "offline",
+            "logo": {
+              "url": "https://cdn.firstcry.com/education/2022/06/17164421/1457728091.jpg"
+            },
+            "description": {
+              "text": "Celebrate New Year's Eve in style with live entertainment, gourmet dining, and a midnight countdown."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Marine Drive, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "December 31",
+              "week": "wednesday",
+              "month": "December",
+              "local": "2025-12-31T22:00:00",
+              "utc": "4:30-7:30pm"
+            },
+            "about": {
+              "hours": "event lasts 10 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "105",
+            "title": "Open Swimming Gala",
+            "organizerName": "By AquaSports",
+            "followers": "670 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$18",
+            "online": "offline",
+            "logo": {
+              "url": "https://www.manipal.edu/content/dam/manipal/mu/maheblr/1.jpg"
+            },
+            "description": {
+              "text": "Dive into the open swimming competition at this annual gala event."
+            },
+            "location": {
+              "city": "Hyderabad",
+              "area": "HITEC City, Hyderabad, Telangana"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 5",
+              "week": "monday",
+              "month": "January",
+              "local": "2026-01-05T07:00:00",
+              "utc": "1:30-4:30am"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "106",
+            "title": "Rock Anthem Birthday Bash",
+            "organizerName": "By Loud Legends",
+            "followers": "780 followers",
+            "follow": "Follow",
+            "category": "MUSIC BIRTHDAY",
+            "tickets": "$140",
+            "online": "offline",
+            "logo": {
+              "url": "https://content.jdmagicbox.com/v2/comp/hyderabad/i9/040pxx40.xx40.220301131313.r5i9/catalogue/party-balloons-and-events-dilsukhnagar-hyderabad-balloon-decorators-29i6rc8k1k.jpg"
+            },
+            "description": {
+              "text": "Rock out on your birthday with live performances and a high-energy crowd."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "Indiranagar, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 8",
+              "week": "thursday",
+              "month": "January",
+              "local": "2026-01-08T20:00:00",
+              "utc": "2:30-5:30pm"
+            },
+            "about": {
+              "hours": "event lasts 5 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "107",
+            "title": "Farm-to-Table Food Fest",
+            "organizerName": "By Organic Eats",
+            "followers": "820 followers",
+            "follow": "Follow",
+            "category": "FOOD & DRINKS",
+            "tickets": "$50",
+            "online": "offline",
+            "logo": {
+              "url": "https://images.unsplash.com/photo-1532634922-8fe0b757fb13?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Zm9vZCUyMGFuZCUyMGRyaW5rfGVufDB8fDB8fHww"
+            },
+            "description": {
+              "text": "Savor fresh, organic dishes at the farm-to-table food festival."
+            },
+            "location": {
+              "city": "Pune",
+              "area": "Koregaon Park, Pune, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 10",
+              "week": "saturday",
+              "month": "January",
+              "local": "2026-01-10T12:00:00",
+              "utc": "6:30-9:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "All ages",
+              "parking": "ample parking available"
+            }
+          },
+          {
+            "id": "108",
+            "title": "Digital Art & Design Workshop",
+            "organizerName": "By Creative Pixels",
+            "followers": "600 followers",
+            "follow": "Follow",
+            "category": "HOBBIES",
+            "tickets": "$55",
+            "online": "offline",
+            "logo": {
+              "url": "https://i.pinimg.com/736x/c0/fc/fe/c0fcfeaa03b69732e156043c5c495512.jpg"
+            },
+            "description": {
+              "text": "Explore digital art techniques and design software in this creative workshop."
+            },
+            "location": {
+              "city": "Delhi",
+              "area": "Saket, New Delhi, Delhi"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 12",
+              "week": "monday",
+              "month": "January",
+              "local": "2026-01-12T14:00:00",
+              "utc": "8:30-11:30am"
+            },
+            "about": {
+              "hours": "event lasts 3 hours",
+              "age": "18+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "109",
+            "title": "Singles Art & Wine Night",
+            "organizerName": "By Date Creative",
+            "followers": "690 followers",
+            "follow": "Follow",
+            "category": "DATING",
+            "tickets": "$65",
+            "online": "offline",
+            "logo": {
+              "url": "https://img.evbuc.com/event-109.jpg"
+            },
+            "description": {
+              "text": "Mix art and wine at this unique dating event designed for creative souls."
+            },
+            "location": {
+              "city": "Jaipur",
+              "area": "Malviya Nagar, Jaipur, Rajasthan"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 15",
+              "week": "thursday",
+              "month": "January",
+              "local": "2026-01-15T19:00:00",
+              "utc": "1:30-4:30pm"
+            },
+            "about": {
+              "hours": "event lasts 4 hours",
+              "age": "21+ only",
+              "parking": "available"
+            }
+          },
+          {
+            "id": "110",
+            "title": "Tech Startup Bootcamp",
+            "organizerName": "By Startup Launch",
+            "followers": "980 followers",
+            "follow": "Follow",
+            "category": "BUSINESS",
+            "tickets": "$280",
+            "online": "offline",
+            "logo": {
+              "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAoYVtfJgrJDlFAhqM8x0W6uw9TErxJPH8UA&s"
+            },
+            "description": {
+              "text": "A bootcamp designed to equip tech startups with the skills to scale and succeed."
+            },
+            "location": {
+              "city": "Hyderabad",
+              "area": "Gachibowli, Hyderabad, Telangana"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 18",
+              "week": "sunday",
+              "month": "January",
+              "local": "2026-01-18T10:00:00",
+              "utc": "4:30-7:30am"
+            },
+            "about": {
+              "hours": "event lasts 8 hours",
+              "age": "21+ only",
+              "parking": "valet parking available"
+            }
+          },
+          {
+            "id": "111",
+            "title": "New Year Family Carnival",
+            "organizerName": "By Festive Fun",
+            "followers": "1120 followers",
+            "follow": "Follow",
+            "category": "HOLIDAYS",
+            "tickets": "$100",
+            "online": "offline",
+            "logo": {
+              "url": "https://media.allforsport.in/classes/faf4eefa-055c-11f0-bc56-6bb6861cb8ee/1742455903270.jpeg"
+            },
+            "description": {
+              "text": "Ring in the New Year with a carnival designed for family fun and entertainment."
+            },
+            "location": {
+              "city": "Mumbai",
+              "area": "Juhu, Mumbai, Maharashtra"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 20",
+              "week": "wednesday",
+              "month": "January",
+              "local": "2026-01-20T15:00:00",
+              "utc": "9:30-12:30am"
+            },
+            "about": {
+              "hours": "event lasts 6 hours",
+              "age": "All ages",
+              "parking": "ample parking available"
+            }
+          },
+          {
+            "id": "112",
+            "title": "Annual Yoga Marathon",
+            "organizerName": "By Zen Life",
+            "followers": "950 followers",
+            "follow": "Follow",
+            "category": "SPORTS",
+            "tickets": "$30",
+            "online": "offline",
+            "logo": {
+              "url": "https://imageio.forbes.com/specials-images/imageserve/63192e65a4b0533524b586d6/MVS-hero-1x1/0x0.jpg?format=jpg&height=1080&width=1080"
+            },
+            "description": {
+              "text": "Join a day-long yoga marathon to rejuvenate and connect with your inner self."
+            },
+            "location": {
+              "city": "Bangalore",
+              "area": "Lalbagh, Bangalore, Karnataka"
+            },
+            "start": {
+              "timezone": "India",
+              "time": "January 25",
+              "week": "sunday",
+              "month": "January",
+              "local": "2026-01-25T06:00:00",
+              "utc": "12:30-3:30am"
+            },
+            "about": {
+              "hours": "event lasts 7 hours",
+              "age": "All ages",
+              "parking": "available"
+            }
+          }
+
+    ]
+        
+        
+}

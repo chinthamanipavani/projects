@@ -106,8 +106,8 @@ document.addEventListener('DOMContentLoaded', () => {
 let container=document.getElementById("container")
 
 
-let url="http://localhost:3000/events"
-let url2="http://localhost:3000/more"
+let url="https://general-reinvented-pruner.glitch.me/events"
+let url2="https://general-reinvented-pruner.glitch.me/more"
 async function getData(){
 try{
   let res=await fetch(url)

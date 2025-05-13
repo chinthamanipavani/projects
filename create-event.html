@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Create Event - Help Center</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    h1 {
+      margin: 30px 0 20px;
+      font-size: 2em;
+      color: #333;
+    }
+    .createcontainer {
+      background: #fff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.1);
+      max-width: 800px;
+      width: 100%;
+    }
+    form {
+      width: 100%;
+    }
+    input, button {
+      padding: 12px;
+      margin: 8px 0;
+      width: 100%;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      font-size: 15px;
+      box-sizing: border-box;
+      transition: border 0.3s;
+    }
+    input:focus {
+      border: 1px solid #007bff;
+      outline: none;
+    }
+    input:hover {
+      border: 1px solid #007bff;
+    }
+    #createevent {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    #createevent:hover {
+      background-color: #0056b3;
+    }
+    .accordion {
+      background-color: #007bff;
+      color: white;
+      cursor: pointer;
+      padding: 14px 20px;
+      width: 100%;
+      max-width: 800px;
+      text-align: left;
+      border: none;
+      outline: none;
+      font-size: 16px;
+      border-radius: 6px;
+      margin-top: 20px;
+      transition: background-color 0.3s;
+    }
+    .accordion:hover {
+      background-color: #0056b3;
+    }
+    .panel {
+      max-width: 800px;
+      width: 100%;
+      display: none;
+      background-color: white;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-top: none;
+      border-radius: 0 0 6px 6px;
+      margin-bottom: 20px;
+    }
+    .panel ul {
+      padding-left: 20px;
+    }
+    .panel li {
+      margin-bottom: 10px;
+    }
+    .back-link {
+      margin: 20px 0;
+    }
+    .back-link a {
+      text-decoration: none;
+      color: #007bff;
+      font-weight: bold;
+    }
+    .back-link a:hover {
+      text-decoration: underline;
+    }
+    #eventList {
+      max-width: 800px;
+      width: 100%;
+      border: 2px solid red;
+      padding: 20px;
+      margin-bottom: 30px;
+      background-color: #fff;
+      border-radius: 6px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Create Event</h1>
+
+  <div class="createcontainer">
+    <form id="eventForm">
+      <input type="text" name="eventName" placeholder="Event Name" required>
+      <input type="text" name="title" placeholder="Title" required>
+      <input type="text" name="description" placeholder="Description" required>
+      <input type="text" name="city" placeholder="City" required>
+      <input type="text" name="organizer" placeholder="Organizer Name" required>
+      <input type="text" name="followers" placeholder="Followers" required>
+      <input type="text" name="follow" placeholder="Follow" required>
+      <input type="text" name="category name" placeholder="Category" required>
+      <input type="text" name="online" placeholder="Online" required>
+      <input type="text" name="url" placeholder="URL" required>
+      <input type="text" name="area" placeholder="Area" required>
+      <input type="text" name="timezone" placeholder="Timezone" required>
+      <input type="text" name="time" placeholder="Time" required>
+      <input type="text" name="week" placeholder="Week" required>
+      <input type="text" name="month" placeholder="Month" required>
+      <input type="text" name="local" placeholder="Local" required>
+      <input type="text" name="utc" placeholder="UTC" required>
+      <input type="text" name="hours" placeholder="Hours" required>
+      <input type="text" name="age" placeholder="Age" required>
+      <input type="text" name="parking" placeholder="Parking" required>
+      <button type="submit" id="createevent">Create Event</button>
+    </form>
+  </div>
+
+  <button class="accordion">Publish your event</button>
+  <div class="panel">
+    <p>Review your event details, select the organizer, and choose your privacy settings:</p>
+    <ul>
+      <li><strong>Public:</strong> Listed in Eventbrite's search directory.</li>
+      <li><strong>Private:</strong> Only accessible via direct link or password.</li>
+    </ul>
+  </div>
+
+  <div class="back-link">
+    <a href="index.html">Go Back</a>
+  </div>
+
+  <!-- <div id="eventList">No event created yet.</div> -->
+
+  <script>
+    // --- CREATE EVENT SECTION ---
+    document.getElementById("eventForm").addEventListener("submit", async function (e) {
+      e.preventDefault();
+
+      const formData = new FormData(this);
+      const data = {};
+      formData.forEach((value, key) => {
+        data[key] = value;
+      });
+
+      const newEvent = {
+        title: data.title,
+        organizerName: data.organizer,
+        followers: data.followers + " followers",
+        follow: data.follow,
+        category: data.category,
+        tickets: "$100", // example value, can be dynamic
+        online: data.online,
+        logo: {
+          url: data.url || "https://via.placeholder.com/150"
+        },
+        description: {
+          text: data.description
+        },
+        location: {
+          city: data.city,
+          area: data.area
+        },
+        start: {
+          timezone: data.timezone,
+          time: data.time,
+          week: data.week,
+          month: data.month,
+          local: data.local,
+          utc: data.utc
+        },
+        about: {
+          hours: data.hours,
+          age: data.age,
+          parking: data.parking
+        }
+      };
+
+      // Debugging log: show what we send
+      console.log("Posting new event:", newEvent);
+
+      try {
+        const res = await fetch("http://localhost:3000/more", {
+          method: "POST",
+          headers: {
+            "Content-Type": "application/json"
+          },
+          body: JSON.stringify(newEvent)
+        });
+
+        if (!res.ok) throw new Error("Failed to save event");
+        
+        const result = await res.json();
+        console.log("POST response:", result);
+        alert("Event created and saved to db.json successfully!");
+        
+        window.location.href = "index.html"; 
+        
+      } catch (error) {
+        console.error("Error in POST:", error);
+        alert("Error: " + error.message);
+      }
+    });
+  </script>
+
+</body>
+</html>

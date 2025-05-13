@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eventbrite</title>
+
+
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            line-height: 1.6;
+            background: rgb(240, 218, 218);
+            color: #333;
+            margin: 0;
+            padding: 10px;
+        }
+
+        .header {
+            background: aqua;
+            /* Keep existing navbar color */
+            color: #333;
+            text-align: center;
+            border-radius: 5px;
+          
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+          
+        }
+
+        .nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav a {
+            color: #333;
+            text-decoration: none;
+            padding: 10px 15px;
+        }
+
+        .navigate a:hover {
+            background: orange;
+            border-radius: 5px;
+        }
+
+        .section {
+            max-width: 1200px;
+            margin: 60px auto;
+            padding: 0 20px;
+        }
+
+        .section h2 {
+            font-size: 2rem;
+            margin-bottom: 10px;
+            color: #222;
+        }
+
+        .section p {
+            color: #555;
+            font-size: 1rem;
+        }
+
+
+        .section ul {
+            margin-bottom: 15px;
+            color: #555;
+        }
+
+        .section ul {
+            padding-left: 20px;
+            list-style-type: disc;
+        }
+
+        .section ul li {
+            margin-bottom: 8px;
+        }
+
+        .section button {
+            padding: 10px 20px;
+            background-color: orange;
+            color: white;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            font-weight: bold;
+        }
+
+        .section button:hover {
+            background-color: darkorange;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 20px;
+            margin-top: 40px;
+        }
+
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15);
+        }
+
+        .card img {
+            max-width: 100px;
+            height: auto;
+            margin-bottom: 15px;
+        }
+
+        .card h3 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+            color: #333;
+        }
+
+        .card p {
+            font-size: 0.95rem;
+            color: #555;
+        }
+
+        img {
+            max-width: 100%;
+            border-radius: 5px;
+        }
+
+
+        footer.footer {
+            text-align: center;
+            margin-top: 50px;
+            padding: 20px 0;
+            color: #555;
+            font-size: 0.9rem;
+            background-color: orange;
+            color: white;
+
+        }
+
+
+        .rightpeople {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 40px;
+            flex-wrap: wrap;
+            margin-top: 40px;
+        }
+
+        .rightpeople img {
+            width: 40%;
+            max-width: 500px;
+            border-radius: 10px;
+        }
+
+        .rightpeople>div {
+            flex: 1;
+            max-width: 600px;
+        }
+
+        .rightpeople h3 {
+            font-size: 1.5rem;
+            margin-bottom: 15px;
+            color: #222;
+        }
+
+        .rightpeople p {
+            color: #555;
+        }
+
+
+        @media (max-width: 600px) {
+            .card {
+                padding: 15px;
+            }
+
+            .nav {
+                flex-direction: column;
+                gap: 10px;
+            }
+
+            .rightpeople {
+                flex-direction: column;
+                text-align: center;
+            }
+
+            .rightpeople img {
+                width: 100%;
+            }
+
+            .rightpeople>div {
+                max-width: 100%;
+            }
+        }
+    </style>
+
+</head>
+
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="nav">
+                <a href="./index.html" style="color:orange">
+                    <h1>EventCraft</h1>
+                </a>
+                <div class="navigate">
+                    <a href="reserve.html">Find my tickets</a>
+                    <a href="./login.html">Log In</a>
+                    <a href="./login.html">Sign Up</a>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <section class="section">
+            <img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F967302363%2F2472102932521%2F1%2Foriginal.20250223-173834?w=940&auto=format%2Ccompress&q=75&sharp=10&s=7ca4777a7a67282967ff169c84c5771b"
+                alt="Event Hosting Image" width="100%">
+
+        </section>
+
+        <section class="section">
+            <h2>Event Hosting Made Easy</h2>
+
+            <p>Easily create events for free on a platform that attendees love and trust.</p>
+            <p>Make your business shine online with a custom event website designed just for you by a professional
+                designer. Need ideas? We’ve collected some amazing examples of event websites from our global community
+                of designers. Get inspired and start planning the perfect event web design today.</p>
+            <p>The all-in-one ticketing and discovery platform trusted by millions of organizers and attendees
+                worldwide.</p>
+            <a href="./reserve.html"><button>Get for free trail</button></a>
+
+        </section>
+
+        <div class="grid">
+            <div class="card">
+                <img src="https://eventbrite-s3.s3.amazonaws.com/marketing/landingpages/assets/2023/organizer/icons/svg/organizer-icon__orange--sell-tickets.svg"
+                    alt="Event Ticketing">
+                <h3>Event Ticketing</h3>
+                <p>Sell more tickets with customizable event pages and a seamless checkout experience for attendees on a
+                    trusted platform.</p>
+            </div>
+            <div class="card">
+                <img src="https://cdn.evbstatic.com/s3-s3/marketing/landingpages/assets/2023/organizer/icons/svg/organizer-icon__orange--reports.svg"
+                    alt="Reporting & Analytics">
+                <h3>Reporting & Analytics</h3>
+                <p>Learn more about your buyers and discover where sales are coming from with real-time analytics.</p>
+            </div>
+            <div class="card">
+                <img src="https://cdn.evbstatic.com/s3-s3/marketing/landingpages/assets/2023/organizer/icons/svg/organizer-icon__orange--organizer-app.svg"
+                    width="100px" height="200px">
+                <h3>Organizer App</h3>
+                <p>Check guests in, sell tickets at the door, and track data with our easy-to-use Eventbrite Organizer
+                    App.</p>
+            </div>
+        </div>
+
+        <!-- Budget Template Section -->
+        <section class="section">
+            <h2>Budget Template</h2>
+            <p>
+                The Event Budget Template You Need To Keep on Track. Our budget template is designed to make your
+                finances
+                as simple as possible. With our template, you can:
+            </p>
+            <ul>
+                <li>Visualize your event expenses with automatically generated charts</li>
+                <li>Compare your projected and actual costs at a glance</li>
+                <li>Identify your biggest expenses with clear cost breakdowns</li>
+            </ul>
+        </section>
+
+        <!-- Reach the Right People Section -->
+        <section class="section">
+            <h2>Reach the Right People</h2>
+            <p>Promote your event with built-in tools to drive awareness and ticket sales.</p>
+        </section>
+
+        <!-- Get Paid, Earn More Section -->
+        <section class="section">
+            <h2>Get Paid, Earn More</h2>
+
+            <div class="rightpeople">
+                <img src="https://images.dzzn8wni.ext.evbdomains.com/marketing/landingpages/assets/2025/rebrand/organizer/a--s-img-square-00.webp"
+                    alt="Get Paid">
+
+                <div>
+                    <h3>What makes a good event website?</h3>
+                    <p>
+                        A great website shows the world who you are, makes people remember you, and helps potential
+                        customers understand if they found what they were looking for. Websites communicate all of that
+                        through color, shape and other design elements. Learn how to make your event website tell your
+                        brand’s story.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <footer class="footer">
+            <p>&copy; 2025 Eventbrite. All rights reserved.</p>
+        </footer>
+
+</body>
+
+</html>

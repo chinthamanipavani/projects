@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reserve Now</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f7f9fc;
+            margin: 0;
+            padding: 20px;
+        }
+
+        form {
+            max-width: 400px;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+
+        input,
+        select,
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 14px;
+        }
+
+        input:focus,
+        select:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+        button {
+            background-color:blue;
+            color: white;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #218838;
+        }
+
+        .confirmationMsg {
+            color: green;
+            text-align: center;
+            margin-top: 15px;
+        }
+
+        #amountField {
+            display: none;
+        }
+
+        label {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+    <form id="reserveForm">
+        <h2>Book Your Tickets</h2>
+        <input type="text" id="name" placeholder="Your Name" required>
+        <input type="email" id="email" placeholder="Your Email" required>
+        <input type="number" id="tickets" placeholder="Number of Tickets" required min="1">
+
+        <select id="eventType" required>
+            <option value="" disabled selected>Select Event Type</option>
+            <option value="Birthday">Birthday</option>
+            <option value="Music">Music</option>
+            <option value="Business">Business</option>
+            <option value="Dating">Dating</option>
+            <option value="Hobbies">Hobbies</option>
+            <option value="Holidays">Holidays</option>
+        </select>
+
+        <label for="paymentType">Payment Type:</label>
+        <select id="paymentType" required>
+            <option value="" disabled selected>Select</option>
+            <option value="Free">Free</option>
+            <option value="Paid">Paid</option>
+        </select>
+
+        <div id="amountField">
+            <label for="amount">Amount:</label>
+            <input type="number" id="amount" min="1" placeholder="Enter amount">
+        </div>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <p id="confirmationMsg" class="confirmationMsg"></p>
+
+    <script>
+        document.getElementById("paymentType").addEventListener("change", function () {
+            const amountField = document.getElementById("amountField");
+            const amountInput = document.getElementById("amount");
+
+            if (this.value === "Paid") {
+                amountField.style.display = "block";
+                amountInput.setAttribute("required", true);
+            } else {
+                amountField.style.display = "none";
+                amountInput.removeAttribute("required");
+            }
+        });
+
+        document.getElementById("reserveForm").addEventListener("submit", function (e) {
+            e.preventDefault();
+
+      
+            const name = document.getElementById("name").value;
+            const email = document.getElementById("email").value;
+            const tickets = document.getElementById("tickets").value;
+            const eventType = document.getElementById("eventType").value;
+            const paymentType = document.getElementById("paymentType").value;
+            const amount = document.getElementById("amount").value;
+
+          
+            document.getElementById("confirmationMsg").innerHTML = `
+                Thank you ${name} for reserving ${tickets} tickets for the ${eventType} event.<br>
+                Payment Type: ${paymentType} ${paymentType === 'Paid' ? ` - Amount: $${amount}` : ''}
+            `;
+            document.getElementById("reserveForm").reset();
+        });
+    </script>
+
+</body>
+
+</html>

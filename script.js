@@ -58,8 +58,10 @@ function navigateToGuestLoginPage() {
 
 
   const container = document.getElementById("container");
-  const url = "https://foam-aback-river.glitch.me/events";
-  const url2 = "https://foam-aback-river.glitch.me/more";
+  
+   const url = "https://vivacious-harsh-sandwich.glitch.me/events";
+  const url2 = "https://vivacious-harsh-sandwich.glitch.me/more";
+  
 
   const prevBtn = document.getElementById("prevPage");
   const nextBtn = document.getElementById("nextPage");
@@ -331,156 +333,5 @@ document.getElementById("contactForm").addEventListener("submit", function (e) {
 
 
 
-
-
-
-
-  // //login 
-// let loginBtn = document.getElementById("login");
-
-// loginBtn.addEventListener("click", () => {
-//     navigateToLoginPage();
-// });
-
-// function navigateToLoginPage() {
-  
-//     window.location.href = "./login.html";
-    
-// }
-
-
-// //guest login
-// document.getElementById('guest-login').addEventListener('click', () => {
-//   window.location.href=`./organizer.html`
-
-// });
-
-
-
-// //fetching events
-
-// let container=document.getElementById("container")
-// let url="http://localhost:3000/events"
-// let url2="http://localhost:3000/more"
-// async function getData(){
-// try{
-//   let res=await fetch(url)
-// if(!res.ok){
-//   throw new Error("http error")
-// }
-// let result=await res.json()
-// console.log(result)
-// localStorage.setItem("products",JSON.stringify(result))
-// displayData(result)
-// displayButton(result)
-// }catch(err){
-// console.error(err.message)
-// }
-// }
-// function displayData(events){
-//   console.log(events)
-//   container.innerHTML=""
-//   events.forEach(obj=>{
-//    let {id,logo:{url},category,tickets,start:{timezone,month,local},online}=obj
-//     let item=document.createElement("div")
-//     item.className="item"
-//       item.innerHTML= `
-//    <img src="${url}" class="image">
-//    <p><b>${category}</b></p>
-//    <p><b>Mode : </b> ${online}</p>
-//    <p><b>Country : </b>${timezone}    <b>month</b>${month}<p>
-//       <p><b>Local : </b>${local}<p>
-//    `
-//    item.addEventListener("click", () => getMoreData(id));
-//    container.appendChild(item)
-    
-//   })
-
-// }
-
-
-
-
-// let abortController;
-
-// async function getData2(){
-//   abortController = new AbortController();
-//   try {
-//     let res = await fetch(url2, { signal: abortController.signal });
-//     if (!res.ok) {
-//       throw new Error("HTTP error");
-//     }
-//     let result = await res.json();
-//     // Store the full product list in local storage
-//     localStorage.setItem("products", JSON.stringify(result));
-//     // Initially display all items
-//     displayData2(result);
-//     displayButton(result);
-//   } catch (err) {
-//     if (err.name === "AbortError") {
-//       console.log("Fetch aborted");
-//     } else {
-//       console.error(err.message);
-//     }
-//   }
-// }
-
-// function displayData2(result) {
-//   // Clear the container before displaying new items
-//   container.innerHTML = "";
-//   result.forEach(obj => {
-//     createItem(obj);
-//   });
-// }
-
-// function createItem(obj) {
-//   let { id, logo: { url }, category, tickets, start: { timezone, month, local }, online } = obj;
-//   let item = document.createElement("div");
-//   item.className = "item";
-//   item.innerHTML = `
-//     <img src="${url}" class="image">
-//     <p><b>${category}</b></p>
-//     <p><b>Mode : </b>${online}</p>
-//     <p><b>Country : </b>${timezone} <b>Month : </b>${month}</p>
-//     <p><b>Local : </b>${local}</p>
-//   `;
-//   item.addEventListener("click", () => getMoreData(id));
-//   container.appendChild(item);
-// }
-
-// document.addEventListener("DOMContentLoaded", () => {
-//   let seeMore = document.getElementById("seeMore");
-//   let seeLess = document.getElementById("seeLess");
-  
-//   seeMore.addEventListener("click", () => {
-//     seeLess.style.display = "block";
-//     seeMore.style.display = "none";
-//     getData2();
-//   });
-  
-//   seeLess.addEventListener("click", () => {
-//     if (abortController) {
-//       abortController.abort();
-//     }
-//     seeLess.style.display = "none";
-//     seeMore.style.display = "block";
-    
-//     let products = JSON.parse(localStorage.getItem("products"));
-//     if (products) {
-//       container.innerHTML = ""; 
-//       products.slice(0, 8).forEach(obj => {
-//         createItem(obj);
-//       });
-//     }
-//   });
-// });
-
-// function getMoreData(id){
-//   console.log("hai")
-//   window.location.href=`./index2.html?id=${id}`
-// }
-
-// getData2()
-// getData()
 
 

@@ -58,8 +58,8 @@ function navigateToGuestLoginPage() {
 
 
   const container = document.getElementById("container");
-  const url = "https://general-reinvented-pruner.glitch.me/events";
-  const url2 = "https://general-reinvented-pruner.glitch.me/more";
+  const url = "https://foam-aback-river.glitch.me/events";
+  const url2 = "https://foam-aback-river.glitch.me/more";
 
   const prevBtn = document.getElementById("prevPage");
   const nextBtn = document.getElementById("nextPage");

@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- <head> -->
+    <!-- <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;600&display=swap"
+        rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+
+    <link rel="stylesheet" href="./style.css">
+    <title>Event Management </title>
+</head> -->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="./images/logo.jpg"> <!-- Favicon added here -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Lobster&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <link rel="stylesheet" href="./style.css">
+    <title>Event Management</title>
+</head>
+
+<body>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#home"><img src="./images/logo.jpg" alt="" ></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#home">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#events">events</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about">about</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact">contact</a>
+                    </li>
+                </ul>
+                <form class="d-flex me-2">
+                    <input class="form-control me-2" type="search" id="search-input" placeholder="Search">
+                </form>
+                <div class="d-flex">
+                    <button class="btn btn-outline-success me-2" id="login">Login</button>
+                    <button class="btn btn-outline-primary" id="guest-login">Guest Login</button>
+                </div>
+
+            </div>
+        </div>
+    </nav>
+    <!-- carousel -->
+    <div>
+        <form action="#" method="post">
+        </form>
+        <h1 id="home"></h1>
+        <h1 id="banner"></h1>
+
+
+        <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
+                    aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1"
+                    aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                    aria-label="Slide 3"></button>
+            </div>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="./images/banner-1.webp" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://cdn.evbstatic.com/s3-build/fe/build/images/cd6df335d9d4dbb4a0c3c9ea4f78542a-food_and_drink_desktop.webp"
+                        class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://cdn.evbstatic.com/s3-build/fe/build/images/351517764e54e5677b68046496c5a1c1-festivals_desktop.webp"
+                        alt="Banner 3" class="d-block w-100" alt="...">
+                </div>
+            </div>
+
+            </button>
+        </div>
+
+        <br><br><br>
+
+
+
+        <!--cards-->
+
+
+        <section class="event-gallery">
+            <div class="card-container">
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/videos/fd84b547-256e-5769-b37c-c5cb7fcc320c/horizontal/previews/videvo_watermarked/small.mp4')">
+                    <img src="./images/birthday.jpeg" alt="Birthday">
+                    <h3>Birthday</h3>
+                </div>
+
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/joy/content/video/free/2015-08/small_preview/Ao_Nang_Beach_Yoga_MP4_HDV_1080p25__TanuriX_Stock_Footage_NS.mp4?token=exp=1747214243~acl=/*~hmac=b2835deb4c7036e4d6d86273f1591d7f1b6b63c8dcd539d78a657cd1d64478cc')">
+                    <img src="./images/hobbies.jpeg" alt="Hobbies">
+                    <h3>Hobbies</h3>
+                </div>
+
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/videos/d02336bf-1eae-44b3-b360-baf8db23ceaf/horizontal/previews/clear/small.mp4?token=exp=1747215220~hmac=60ba385b5874e7c4759653782a4f1ea991f9e4472ff7f848a520ad22e2d464b8')">
+                    <img src="./images/food.jpeg" alt="Food">
+                    <h3>Food</h3>
+                </div>
+
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/videos/63d3d606-5339-44ed-987b-ec97b0762569/horizontal/previews/clear/small.mp4?token=exp=1747215325~hmac=7a7c31afb34ffd24b0e74eefe0ad2ef8494c2e00f214762083612c0331643cfb')">
+                    <img src="./images/music.jpeg" alt="Music">
+                    <h3>Music</h3>
+                </div>
+            </div>
+
+            <!-- Video Modal -->
+            <div id="videoModal" class="video-modal">
+                <div class="video-modal-content">
+                    <span class="close-btn"></span>
+                    <video id="modalVideo" controls>
+                        <source id="videoSource" src="" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </div>
+
+            <div class="card-container">
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/videos/5f64a243-e0d5-5295-b00e-65886d5ee41d/horizontal/previews/videvo_watermarked/small.mp4')">
+                    <img src="./images/holidays.jpg" alt="holidays">
+                    <h3>holidays</h3>
+                </div>
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/videos/5b5d81f4-18de-5db9-afb7-6f3cef5a8adc/horizontal/previews/watermarked/small.mp4')">
+                    <img src="./images/technology.jpg" alt="Hobbies">
+                    <h3>technologies</h3>
+                </div>
+
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/videos/8371346c-d9ff-4396-83a2-0a6e4aae71ff/horizontal/previews/watermarked/small.mp4')">
+                    <img src="./images/entertainment.jpg" alt="Food">
+                    <h3>Entertainment</h3>
+                </div>
+
+                <div class="event-card"
+                    onclick="openVideo('https://videocdn.cdnpk.net/videos/7b9084be-c5e5-4f92-8b74-affd46c6ec65/horizontal/previews/clear/small.mp4?token=exp=1747215496~hmac=641bff3d07d5bb4c39c52af48020899020e8d573dfb0a9cb61ccdf2d523b9070')">
+                    <img src="./images/sports.jpg" alt="Music">
+                    <h3>sports</h3>
+                </div>
+            </div>
+
+            <!-- Video Modal -->
+            <div id="videoModal" class="video-modal">
+                <div class="video-modal-content">
+                    <span class="close-btn">&times;</span>
+                    <video id="modalVideo" controls>
+                        <source id="videoSource" src="" type="video/mp4">
+                        Your browser does not support the video tag.
+                    </video>
+                </div>
+            </div>
+        </section>
+    </div>
+    <br><br><br>
+
+
+
+
+    <!--events-->
+    <h1 id="events"></h1>
+    <h1 id="a"></h1>
+    <h1 style="color:orange">Browse events</h1>
+    <div class="container" id="container">
+    </div><br>
+
+    <div class="pagination" style="text-align:center; margin: 20px 0;">
+        <button id="prevPage">&#8249;</button>
+        <span id="pageIndicator">1 of X</span>
+        <button id="nextPage">&#8250;</button>
+    </div>
+    <div class="more">
+        <center> <button id="seeMore" class="seemore">seeMore</button></center>
+    </div>
+    <!-- <div class="less">
+        <center>
+            <button class="seeless" id="seeLess" style="display: none;">See Less</button>
+        </center>
+    </div> -->
+    </h1>
+
+    <!-- about -->
+    <h1 id="about"></h1>
+    <div class="aboutcontainer">
+        <h1>What Does An Event Management Company Do?</h1>
+
+        <div class="about-image">
+            <img src="https://eventezy.in/assets/ev-CqfsYUrh.png" alt="">
+            <div>
+                <p style="font-size:15px;">
+                    Eventezy excels in crafting exceptional events that leave a lasting impression. From corporate
+                    gatherings to weddings and private parties, our expert team ensures every detail is perfect. We
+                    manage everything from initial planning and venue selection to logistics and on-site coordination,
+                    bringing creativity and precision to every project. Our personalized approach and industry expertise
+                    guarantee a seamless experience and memorable outcomes. At Eventezy, we turn your vision into
+                    reality, making each event uniquely tailored and effortlessly executed. Let us handle the details
+                    while you enjoy the celebration.
+                </p><br><br>
+                <a href="#contact" class="about-link">
+                    <button class="contact">contact</button>
+                </a>
+            </div>
+
+
+        </div>
+
+        <!-- Services Offered with toggle -->
+        <div class="section">
+            <h2 class="section-title" onclick="toggleServices()">
+                <span id="arrow" class="arrow"></span> Services Offered
+            </h2>
+            <ul id="services" class="services-list">
+                <li>Venue selection and booking</li>
+                <li>Event design and branding</li>
+                <li>Logistics management</li>
+                <li>Catering and menu planning</li>
+                <li>Audio and visual equipment rentals</li>
+                <li>Entertainment booking</li>
+            </ul>
+        </div>
+
+        <!-- FAQ Section -->
+        <div class="faq section">
+            <h2 class="section-title">Frequently Asked Questions</h2>
+
+            <h3>What is event management?</h3>
+            <p>
+                Event management involves organizing and executing various types of events, ensuring every element
+                aligns with the client's expectations.
+            </p>
+
+            <h3>What does an event management company do?</h3>
+            <p>
+                A professional company handles everything from planning to execution—covering venue, catering, decor,
+                scheduling, and more.
+            </p>
+
+            <h3>How do I choose the right event management company?</h3>
+            <p>
+                Look for companies with strong portfolios, client reviews, budget transparency, and the ability to
+                tailor services to your goals.
+            </p>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <!--contact-->
+    <h1 id="contact"></h1>
+    <section class="contact-section">
+        <h1>Contact Us</h1>
+
+        <div class="contact-container">
+
+            <div>
+                <p><strong style="color:orange">Let's Talk</strong></p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facere ducimus asperiores voluptate illo
+                    maiores rem voluptas dignissimos quasi?</p>
+            </div>
+
+            <div class="contact-wrapper">
+                <!-- Contact Info -->
+                <div class="contact-info">
+                    <h2>EventMate HQ</h2>
+                    <p>📍 123 Event Street, Hyderabad, India</p>
+                    <p>📞 +91 98765 43210</p>
+                    <p>📧 support@eventmate.com</p>
+                    <p class="note">We’re here to help with bookings, inquiries, and more.</p>
+                </div>
+
+                <!-- Contact Form -->
+                <form id="contactForm" class="contact-form">
+                    <input type="text" id="name" placeholder="Your Name" required />
+                    <input type="email" id="email" placeholder="Your Email" required />
+                    <textarea id="message" rows="4" placeholder="Your Message" required></textarea>
+                    <button type="submit" class="sendMessage">Send Message</button>
+                </form>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <!--footer-->
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section about">
+                <h2>Eventify</h2>
+                <p>Your all-in-one platform for discovering, creating, and managing events.</p>
+            </div>
+
+            <div class="footer-section links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#events">Events</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#about">About Us</a></li>
+                </ul>
+            </div>
+            <div class="footer-section contacts">
+                <h3>Contact Us</h3>
+                <p>Email: support@eventify.com</p>
+                <p>Phone: +1 234 567 890</p>
+            </div>
+            <div class="footer-section social">
+                <h3>Follow Us</h3>
+                <a href="https://www.facebook.com/login.php/"><i class="bi bi-facebook"> facebook</i></a>
+                <a href="https://www.facebook.com/TwitterInc/"><i class="bi bi-twitter"> twitter</i></a>
+                <a href="https://www.instagram.com/"><i class="bi bi-instagram"> instagram</i></a>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2025 Eventify. All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>
